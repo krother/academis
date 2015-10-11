@@ -91,3 +91,8 @@ voting-poker-chips.md	Voting with Poker Chips	Y	2011-10-17 13:17:17	Conferences,
 what-distinguishes-novice-master-presenters.html	What distinguishes Novice from Master Presenters?	Y	2014-06-06 15:53:54	Presenting
 when-you-get-stuck-science.html	When you get stuck in science	Y	2013-06-13 00:12:41	Science, Mentoring
 project-outline.md	 Writing a Project Outline	Y	2014-06-09 00:00:33	Project Management, Teamwork
+how-use-videos-support-training-session.html	How to use Videos to support a Training Session?	Y	2014-01-05 20:51:57	Teaching
+masterpiece-presenting-data.html	A Masterpiece of Presenting Data	Y	2014-06-03 15:01:16	Presenting, Data Analysis
+push-vs-pull-leadership.md	Push vs. Pull Leadership	Y	2014-06-04 17:38:50	Leadership
+new-colleague-abroad.html	From Abroad to Aboard: How to help a new Colleague?	Y	2011-09-23 23:08:17	Teamwork, Leadership
+recursive_graph.md	Coding Challenge: The Recursive Snowflake	Y	2015-10-12 23:25:00	Python, Coding Challenges, Visualisation, Algorithms

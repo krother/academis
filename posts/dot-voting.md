@@ -24,4 +24,6 @@ It is better to explain the task first and then distribute the dots. Otherwise i
 ### What else?
 Dot voting works in many different moderation scenarios, not only in teaching. You can find an alternative description on [www.gamestorming.com/core-games/dot-voting/](http://www.gamestorming.com/core-games/dot-voting/).
 
+Dot voting is also used frequently on **Unconferences**, where it scales up to 100 participants and more.
+
 Dot stickers make voting more interactive. The beauty of this method is that, in contrast to a poll with raising hands you give your participants time to think. Also there is a haptic component - you put responsibility literally into the hands of your participants.

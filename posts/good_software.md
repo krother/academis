@@ -1,9 +1,9 @@
 
-## How to recognize good scientific software?
+# How to recognize good scientific software?
 
 With heaps of data to evaluate, scientific software has become increasingly relevant to create or evaluate results. Lots of software exists, but is it good enough for what you want to do? How can you tell whether you can trust a program to solve your problem? In the first place, you could treat an existing publication as a sign of quality. Unfortunately it is not a particularly reliable one. A publication does not tell you whether the authors are still developing their program further, whether they have stopped maintaining it, or whether the developers have switched fields altogether.
 
-In this chapter, we introduce five criteria by which you can recognize good software:
+In this article, I introduce five criteria by which you can recognize good software:
 
 ![Criteria for good scientific software](images/software_qa.png)
 
@@ -48,5 +48,5 @@ If a program fails several of the above quality indicators, it does not mean tha
 
 The list in this post is incomplete. If you are an author and I missed your favorite engineering technique, or if you use scientific software and have a suggestion what would make your life easier, drop me a line.
 
-#### Acknowledgements
+### Acknowledgements
 Thist text emerged from a discussion round at the GFZ Potsdam, with special support from Bernadette Fritsch, Björn Brembs, Dominik Reusser and Jens Klump.

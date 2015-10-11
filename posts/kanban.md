@@ -1,7 +1,7 @@
 
 # Using a Kanban Board
 
-As a postdoc, I was struggling with coordinating more than 10 projects, and the workload and multitasking were dragging me down. After some time I decided to do something about it, and the method that worked well was creating a **task board** where I placed all the work that had queued up. Then I started doing it, one task at a time.
+As a postdoc, I was struggling with coordinating more than 10 projects, and the workload and multitasking were dragging me down. After some time I decided to do something about it, and the method that worked well was creating a **kanban** or **task board** where I placed all the work that had queued up. Then I started doing it, one task at a time.
 
 ![Task Board at UAM Poznan](images/task_board_uam660.jpg)
 

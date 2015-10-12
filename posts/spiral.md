@@ -16,13 +16,6 @@ When your program draws a spiral with at least 3 loops, you have mastered this c
 * The **Pillow** library in Python
 * The **turtle** module in Python
 
-### Optional goals
-
-* the line width grows thicker from the inside to the outside
-* there is a color gradient along the spiral
-
-![Spiral with width and color](images/spiral2.svg)
-
 ### Hints
 
 * It is sufficient to draw the spiral as a series of short lines
@@ -37,4 +30,11 @@ If you have no idea where to start, try the following Python script:
     forward(50)
     left(90)
     forward(50)
+
+### Optional goals
+
+* the line width grows thicker from the inside to the outside
+* there is a color gradient along the spiral
+
+![Spiral with width and color](images/spiral2.svg)
 

@@ -5,7 +5,7 @@
 
 Write a program, that draws a spiral:
 
-![spiral](images/spiral.svg)
+![spiral](images/spiral1.svg)
 
 When your program draws a spiral with at least 3 loops, you have mastered this challenge.
 
@@ -20,6 +20,8 @@ When your program draws a spiral with at least 3 loops, you have mastered this c
 
 * the line width grows thicker from the inside to the outside
 * there is a color gradient along the spiral
+
+![Spiral with width and color](images/spiral2.svg)
 
 ### Hints
 

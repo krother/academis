@@ -100,3 +100,4 @@ spiral.md	Coding Challenge: Spiral	Y	2015-10-12 09:58:00	Python, Coding Challeng
 decorator_function.md	Coding Challenge: Use a Decorator like a Function	Y	2015-10-13 22:04:00	Python, Coding Challenges, OOP, Advanced Python
 count_words_moby_dick.md	Coding Challenge: Count words in Moby Dick	Y	2015-10-14 00:51:00	Python, Coding Challenges, Python Basics
 python_shopping_bill.md	Tutorial: Introduction to Python for programmers	Y	2015-10-14 09:32:00	Python, Coding Challenges, Python Basics
+python_backpack_problem.md	Coding Challenge: The Backpack Problem	Y	2015-10-14 11:57:00	Python, Coding Challenges, Algorithms

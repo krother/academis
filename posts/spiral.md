@@ -10,7 +10,7 @@ Write a program, that draws a spiral:
 When your program draws a spiral with at least 3 loops, you have mastered this challenge.
 
 
-### What you can practise in this coding challenge:
+### What you can practise in this coding challenge
 
 * loops
 * The **Pillow** library in Python

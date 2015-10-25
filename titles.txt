@@ -111,3 +111,4 @@ ebook-python-basics.md	Tutorial: Python 3 Basics	Y	2015-10-14 18:55:00	Python, P
 ebook-biopython-tutorial.md	Tutorial: Bioython	Y	2015-10-14 18:55:00	Python, Biopython, Coding Challenges, e-books
 ebook-time-management.md	e-book: Time Management for Scientists	Y	2015-10-14 18:55:00	Time Management, Leadership, e-books
 nine-ways-do-scientific-writing.html	Nine Ways to do Scientific Writing	Y	2014-06-03 12:33:50	Writing
+convex_hull_cows_challenge.md	Coding Challenge: How many corners does a herd of cows have?	Y	2015-10-25 22:15:00	Coding Challenges, Python, Algorithms

@@ -114,3 +114,4 @@ nine-ways-do-scientific-writing.html	Nine Ways to do Scientific Writing	Y	2014-0
 convex_hull_cows_challenge.md	Coding Challenge: How many corners does a herd of cows have?	Y	2015-10-25 22:15:00	Coding Challenges, Python, Algorithms
 speech_evaluation_form.md	Speech Evaluation Form	Y	2015-10-30 22:09:00	Presenting
 blast_tutorial.md	Python BLAST Tutorial	Y	2015-10-08 20:00:00	Bioinformatics, Python
+coding_katas.md	Where to find Coding Katas?	Y	2015-11-03 20:29:00	Python, Programming, Coding Challenges

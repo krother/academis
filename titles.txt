@@ -117,3 +117,4 @@ blast_tutorial.md	Python BLAST Tutorial	Y	2015-10-08 20:00:00	Bioinformatics, Py
 coding_katas.md	Where to find Coding Katas?	Y	2015-11-03 20:29:00	Python, Programming, Coding Challenges
 scrabble.html	Scrabble	Y	2015-11-10 00:16	Teaching, Warm-up
 supermarket.html	Supermarket	Y	2015-11-10 00:16	Teaching, Feedback
+quotes_teaching.md	Quotes on Teaching	Y	2015-11-10 00:34	Teaching

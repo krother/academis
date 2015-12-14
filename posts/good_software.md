@@ -44,7 +44,7 @@ All of these methods have in common that some input data with a known output is 
 
 ### Conclusions
 
-If a program fails several of the above quality indicators, it does not mean that the program is bad or that the authors can't program. Probably you are seeing only a tiny bit of all the work that went into the software. But it means that your risk as a user is higher, because you need good faith if you use a prototype, and lots of trust when using a program
+If a program fails several of the above quality indicators, it does not mean that the program is bad or that the authors can't program. Probably you are seeing only a tiny bit of all the work that went into the software. But it also means that your risk of usage is higher. If the software you are using is a prototype (and many projects never leave that stage), one of the best things you can do is to contact the authors directly. This is beneficial for both of you. 
 
 The list in this post is incomplete. If you are an author and I missed your favorite engineering technique, or if you use scientific software and have a suggestion what would make your life easier, drop me a line.
 

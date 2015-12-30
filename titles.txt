@@ -118,3 +118,4 @@ coding_katas.md	Where to find Coding Katas?	Y	2015-11-03 20:29:00	Python, Progra
 scrabble.html	Scrabble	Y	2015-11-10 00:16	Teaching, Warm-up
 supermarket.html	Supermarket	Y	2015-11-10 00:16	Teaching, Feedback
 quotes_teaching.md	Quotes on Teaching	Y	2015-11-10 00:34	Teaching
+pandas_book.md	Book Review: Python for Data Analysis	Y	2015-12-31 00:30	Python, Data Analysis, Big Data

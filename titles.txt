@@ -52,7 +52,7 @@ methods-training-scrum.md	Methods for Training Scrum	Y	2014-02-04 13:37:10	Scrum
 milestones-and-deliverables.md	Milestones and Deliverables	Y	2014-06-07 11:22:30	Project Management, Grant Writing
 moderating-magnets.html	Moderating with Magnets	Y	2012-03-29 08:55:49	Teaching, Visualisation
 organizing-panel-discussion.html	Organizing a Panel Discussion	Y	2011-12-02 17:49:37	Conferences, Teaching
-personality-leader.html	The Personality of a Leader	Y	2014-06-01 22:20:37	Leadership
+personality-leader.md	The Personality of a Leader	Y	2014-06-01 22:20:37	Leadership
 persuasion-grant-proposal.html	Persuasion in a Grant Proposal	Y	2014-06-07 23:37:49	Grant Writing, Marketing
 pert-diagrams.md	PERT Diagrams	Y	2014-06-06 16:07:48	Project Management, Grant Writing
 phd-defence.md	The PhD Defence	Y	2012-09-29 22:42:58	PhD, Presenting

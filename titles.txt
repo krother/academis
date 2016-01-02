@@ -101,7 +101,7 @@ decorator_function.md	Coding Challenge: Use a Decorator like a Function	Y	2015-1
 count_words_moby_dick.md	Coding Challenge: Count words in Moby Dick	Y	2015-10-14 00:51:00	Python, Coding Challenges
 python_shopping_bill.md	Tutorial: Introduction to Python for programmers	Y	2015-10-14 09:32:00	Python, Coding Challenges
 python_backpack_problem.md	Coding Challenge: The Backpack Problem	Y	2015-10-14 11:57:00	Python, Coding Challenges, Algorithms
-linux-command-line-tutorial.html	Tutorial: First Steps on the Linux Command Line	Y	2013-11-08 20:45:08	Linux, e-books, Tutorial
+linux-command-line-tutorial.html	Tutorial: First Steps on the Linux Command Line	Y	2013-11-08 20:45:08	Linux, e-books, Tutorial, Data Analysis
 professional-development-plan.html	Professional Development Plan	Y	2014-02-25 23:59:10	Mentoring, Leadership
 ebook-getting-grants.html	e-books: Getting Grants	Y	2013-11-25 09:37:32	Grant Writing, e-books
 ebook-leadership-scientists.html	e-book: Leadership for Scientists	Y	2014-06-03 10:17:10	e-books, Leadership

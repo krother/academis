@@ -119,3 +119,4 @@ scrabble.html	Scrabble	Y	2015-11-10 00:16	Teaching, Warm-up
 supermarket.html	Supermarket	Y	2015-11-10 00:16	Teaching, Feedback
 quotes_teaching.md	Quotes on Teaching	Y	2015-11-10 00:34	Teaching
 pandas_book.md	Book Review: Python for Data Analysis	Y	2015-12-31 00:30	Python, Data Analysis, Big Data
+bricks_linear_equations.md	Solving a linear optimization problem with PuLP	Y	2016-01-07 21:47	Python, Data Analysis, Python Modules

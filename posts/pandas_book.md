@@ -3,6 +3,8 @@
 
 In the first half of 2015, I translated the book [Python for Data Analysis](http://shop.oreilly.com/product/0636920023784.do) by **Wes McKinney** to German together with **Christian Tismer**. A [book translation](http://www.oreilly.de/catalog/datenanalysemitpythonger/) is a great way to familarize with the content deeply. Here, I would like to share my insights.
 
+![Datenanalyse mit Python](images/cover_wes.jpg)
+
 ## What is the book about?
 Wes McKinney is the author of the [`pandas`](http://pandas.pydata.org/) Python library, and most of the book is about `pandas`. 
 

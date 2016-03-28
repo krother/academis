@@ -122,3 +122,4 @@ pandas_book.md	Book Review: Python for Data Analysis	Y	2015-12-31 00:30	Python, 
 bricks_linear_equations.md	Solving a linear optimization problem with PuLP	Y	2016-01-07 21:47	Python, Data Analysis, Python Modules
 next_scientist.md	Next Scientist: My favourite posts by Julio	Y	2016-01-19 00:35	Writing, Science, PhD
 sorting_algorithms.md	Sorting Algorithms with Poker Cards	Y	2016-03-28 22:12	Python, Algorithms, Exercises
+python_cli.html	Writing a Command Line Interface in Python	Y	2016-03-29 00:13	Python, Packaging, Software Engineering, Python Modules

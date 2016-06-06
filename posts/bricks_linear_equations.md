@@ -23,12 +23,14 @@ This article shows how to solve this problem using the **linear equation solver 
 
 First, we define the bricks and their colours in Python:
 
+    :::python
     bricks = ['a1', 'a2', 'a3', 'b1', 'b2', 
               'c1', 'c2', 'c3', 'c4', 
               'd1', 'd2', 'e1']
 
 We also define the size of the box to stack bricks in. A list of positions will help us later.
 
+    :::python
     XSIZE = 4
     YSIZE = 3
     positions = [(x,y) for x in range(XSIZE) for y in range(YSIZE)]
@@ -49,6 +51,7 @@ Our model variable will be a binary matrix with four dimensions. The first two d
 
 The fourth dimension is probably the least obvious: It is the column **rb** in which bricks of one colour should be placed. We use it to link bricks of the same colour together.
 
+    :::python
     from pulp import *
 
     v = LpVariable.dicts("bricks", (range(XSIZE), range(YSIZE), bricks, 
@@ -66,10 +69,12 @@ Each brick has two X values assigned: the first is the column **x** in which the
 
 We first tell PuLP that we have something to minimize.
 
+    :::python
     m = LpProblem("Bricks", LpMinimize)
 
 We want to tell PuLP to minimize the distance bricks have from their colleagues to the right. For that, we need to construct a penalty matrix first. We say that any block in column *x* that ought to be in colum *rb* has a penalty of `10` for each column in between:
 
+    :::python
     penalties = {}
     for x in range(XSIZE):
         for rb in range(XSIZE):
@@ -82,6 +87,7 @@ In a linear equation system, everything needs to be composed of terms like `a*x`
 
 In PuLP, this minimization function is formulated as a sum with a scary-looking list comprehension:
 
+    :::python
     m += lpSum([penalties[(x,rb)] * v[x][y][b][rb] \
         for x,y in positions for b in bricks for rb in range(XSIZE)])
 
@@ -93,12 +99,13 @@ Now we specify additional rules and conditions. We need to formulate these in th
 #### Condition 1: One brick per position
 First, we want to specify that there can be only one brick per position. In math notation this is:
 
-    $$\sum_{b,rb} v_{x,y,b,rb} <= 1$$
+![formula for one brick per position](images/brick_equation.png)
 
 This condition must be true for each possible **x** and **y** value.
 
 In Python, it looks similar if you are familiar with **list comprehensions**.
 
+    :::python
     for x, y in positions:
         m += lpSum([v[x][y][b][rb] for b in bricks \
             for rb in range(XSIZE)]) <= 1
@@ -107,6 +114,7 @@ In Python, it looks similar if you are familiar with **list comprehensions**.
 #### Condition 2: One position per brick
 Likewise, each brick can have only one position. This should be obvious, but given the binary matrix we still have to say it explicitly:
 
+    :::python
     for b in bricks:
         m += lpSum([v[x][y][b][rb] for x, y in positions \
             for rb in range(XSIZE)]) == 1
@@ -117,6 +125,7 @@ We want to implement the column **rb** (our fourth dimension) as a hard boundary
 
 We do this by adding a constraint that certain columns need to be zero.
 
+    :::python
     for x in range(XSIZE):
         for rb in range(XSIZE):
             if x > rb:
@@ -131,6 +140,7 @@ This was the tough one while developing the example. We tell our equation system
 
 For the implementation, we need to add a separate constraint for each pair of bricks. For each pair and rb value, the corresponding values in **v** are either both 1 or both 0, which we can check by calculating their difference:
 
+    :::python
     pairs = [('a1', 'a2'), ('a1', 'a3'), ('a2', 'a3'), 
          ('b1', 'b2'),
          ('c1', 'c2'), ('c1', 'c3'), ('c2', 'c3'), 
@@ -147,6 +157,7 @@ For the implementation, we need to add a separate constraint for each pair of br
 ### Step 4: Run the Solver
 Finally we can ask PuLP to solve the problem:
 
+    :::python
     m.solve()
     print("Status:", LpStatus[m.status])
 
@@ -154,6 +165,7 @@ Finally we can ask PuLP to solve the problem:
 ## Display the result
 Lets see whether it really worked:
 
+    :::python
     for y in range(YSIZE):
         row = ""
         for x in range(XSIZE):

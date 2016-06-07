@@ -125,3 +125,4 @@ sorting_algorithms.md	Sorting Algorithms with Poker Cards	Y	2016-03-28 22:12	Pyt
 python_cli.html	Writing a Command Line Interface in Python	Y	2016-03-29 00:13	Python, Packaging, Software Engineering, Python Modules
 25python_modules.md	25 Essential Python Modules for Beginners	Y	2016-04-30 18:51	Python, Python Modules, e-books
 matplotlib_examples.md	Standard plotting examples for matplotlib	Y	2016-06-05 10:35	Python, Python Modules, Diagrams, Plotting, Visualisation
+movie_end_credits.md	Creating End Credits for a Movie in Python	Y	2016-06-08 00:21	Python, Python Modules, Movies, Visualisation

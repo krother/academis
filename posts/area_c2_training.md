@@ -28,6 +28,7 @@ Die Namen der Vorstandsmitglieder könnt Ihr ab 1.7. auf [EasySpeak](http://tmcl
 | 07.09.2016 | Clubwettbewerb [Steglitz](http://www.steglitz-toastmasters.de/) |
 | 08.09.2016 | Clubwettbewerb [Spreeredner](http://www.spreeredner.de) |
 | __.__.2016 | Clubwettbewerb [Adlershof](http://adlershof-toastmasters.de/) |
+| 14.09.2016 | Clubwettbewerb [Mercury](http://www.mercury-toastmasters-berlin.de/) |
 | 01.10.2016 | Area-Wettbewerb C1 |
 | 24.09.2016 | Area-Wettbewerb C2 (Gastgeber: Steglitz) |
 | 24.09.2016 | Area-Wettbewerb C3 |

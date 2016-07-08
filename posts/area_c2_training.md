@@ -34,11 +34,11 @@ Die Namen der Vorstandsmitglieder könnt Ihr ab 1.7. auf [EasySpeak](http://tmcl
 | 01.10.2016 | Area-Wettbewerb C1 |
 | 15.10.2016 | Division C-Wettbewerb (Gastgeber: Spreeredner) |
 | 25.-26.11.2016 | [District 95 Conference in Warschau](http://fall2016.d95conf.org/) |
-| Januar 2017 | Club Officer Training (Gastgeber: Area C3) |
+| 28.01.2017 | Club Officer Training (Gastgeber: Area C3) |
 | Januar-April 2017 | Club Visits durch Kristian |
 | März 2017 | Clubwettbewerbe |
 | März-April 2017 | Area C2 Contest |
-| April 2017 | Division C-Wettbewerbe (Gastgeber: Area C1) |
+| 22.04. 2017 | Division C-Wettbewerbe (Gastgeber: Area C1, Wismar) |
 | 19.-20.5.2017 | District Conference in Berlin |
 | Juni-Juli 2017 | Club Officer Training für neuen Vorstand (Gastgeber: neuer Area Direktor) |
 

@@ -39,7 +39,7 @@ how-structure-presentation.html	How to structure a presentation?	Y	2014-06-08 23
 how_to_convince_reviewers.md	How to convince Grant Reviewers?	Y	2014-06-07 12:06:43	Grant Writing
 how_to_convince_the_grant_commission.md	How to convince the grant commission?	Y	2014-06-07 11:53:03	Grant Writing
 how_to_convince_the_secretary.md	How to convince the grant secretary	Y	2013-05-06 11:38:20	Grant Writing
-kanban.md	Using a Kanban Board	Y	2014-06-02 09:11:33	Agile, Visualisation, Time Management
+kanban.md	Using a Kanban Board	Y	2014-06-02 09:11:33	Agile, Visualisation, Time Management, Project Management
 lab-tracking-down-scientific-fraud.md	The Lab: Tracking down scientific fraud	Y	2012-09-25 13:05:33	Teaching, e-learning, Science
 literature-grant-writing.html	Literature on Grant Writing	Y	2013-11-25 09:26:13	Grant Writing, Literature
 literature-poster-presentations.html	Literature on Poster Presentations	Y	2014-06-08 14:16:23	Visualisation, Literature
@@ -127,4 +127,5 @@ python_cli.html	Writing a Command Line Interface in Python	Y	2016-03-29 00:13	Py
 matplotlib_examples.md	Standard plotting examples for matplotlib	Y	2016-06-05 10:35	Python, Python Modules, Diagrams, Plotting, Visualisation
 movie_end_credits.md	Creating End Credits for a Movie in Python	Y	2016-06-08 00:21	Python, Python Modules, Movies, Visualisation
 pycon_2016.md	My 10 Favourite Talks from PyCon 2016	Y	2016-06-23 15:36	Python, Best Practices
+growing_speakers.md	7 Challenges for improving Public Speaking Skills	Y	2016-08-17 12:10	Presenting
 area_c2_training.md	C2_Training	N	2016-06-26 14:02	Toastmasters

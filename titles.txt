@@ -128,4 +128,3 @@ matplotlib_examples.md	Standard plotting examples for matplotlib	Y	2016-06-05 10
 movie_end_credits.md	Creating End Credits for a Movie in Python	Y	2016-06-08 00:21	Python, Python Modules, Movies, Visualisation
 pycon_2016.md	My 10 Favourite Talks from PyCon 2016	Y	2016-06-23 15:36	Python, Best Practices
 growing_speakers.md	7 Challenges for improving Public Speaking Skills	Y	2016-08-17 12:10	Presenting
-area_c2_training.md	C2_Training	N	2016-06-26 14:02	Toastmasters

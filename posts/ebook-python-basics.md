@@ -7,6 +7,8 @@
 
 <b><a href="http://www.gitbook.com/book/krother/python-3-basics-tutorial">Read or download exercises</a></b><br><br>
 
+<b><a href="https://www.gitbook.com/book/krother/python-3-grundlagen-tutorial/">Exercises in German</a></b><br><br>
+
 <b><a href="http://www.gitbook.com/book/krother/python-3-reference">Read or download command reference</a></b><br><br>
 </div>
 

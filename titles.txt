@@ -130,3 +130,4 @@ pycon_2016.md	My 10 Favourite Talks from PyCon 2016	Y	2016-06-23 15:36	Python, B
 growing_speakers.md	7 Challenges for improving Public Speaking Skills	Y	2016-08-17 12:10	Presenting
 fettbook.md	fettbook - the Social Network for Lipids	Y	2016-11-11 22:31	Teaching, Biochemistry
 speech_projects.md	Free Speech Projects	Y	2016-11-13 15:21	Presenting
+pillow_dice.md	Drawing Dice with Pillow	Y	2016-11-19 00:21	Python, Visualisation, Drawing, Grahics

@@ -11,7 +11,7 @@ The Python code is somewhat crude, but it demonstrates that you can write useful
     from PIL import Image
     from PIL import ImageDraw
     
-    w = Image.new('RGB', (64,64), '#0000FF')    
+    w = Image.new('RGB', (64,64), '#80b940')    
     d = ImageDraw.Draw(w)
     
     d.ellipse(((26, 26), (38, 38)), '#ffffff')
@@ -25,11 +25,11 @@ The Python code is somewhat crude, but it demonstrates that you can write useful
     d.ellipse(((42, 10), (54, 22)), '#ffffff')
     five = w.copy()
     
-    d.ellipse(((26, 26), (38, 38)), '#0000ff')
+    d.ellipse(((26, 26), (38, 38)), '#80b940')
     four = w.copy()
     
-    d.ellipse(((10, 42), (22, 54)), '#0000ff')
-    d.ellipse(((42, 10), (54, 22)), '#0000ff')
+    d.ellipse(((10, 42), (22, 54)), '#80b940')
+    d.ellipse(((42, 10), (54, 22)), '#80b940')
     two = w.copy()
     
     d.ellipse(((10, 42), (22, 54)), '#ffffff')
@@ -38,7 +38,7 @@ The Python code is somewhat crude, but it demonstrates that you can write useful
     d.ellipse(((26, 42), (38, 54)), '#ffffff')
     six = w.copy()
     
-    dice = Image.new('RGB', (64*6,64), '#0000FF')
+    dice = Image.new('RGB', (64*6,64), '#80b940')
     dice.paste(one, box=(64 * 0, 0))
     dice.paste(two, box=(64 * 1, 0))
     dice.paste(three, box=(64 * 2, 0))

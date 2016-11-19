@@ -1,4 +1,4 @@
-# Coding Challenge: Writing a dice game
+# Coding Challenge: Write a dice game
 
 ### The Challenge
 

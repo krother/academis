@@ -48,7 +48,7 @@ live-dna-double-strand.html	Live DNA Double Strand	Y	2014-06-12 20:33:12	Teachin
 marketing.md	Grant writing is marketing science	Y	2015-10-08 20:00:00	Grant Writing, Marketing
 materials-nurturing-scientists.html	Materials for Nurturing Scientists	Y	2012-03-14 08:32:38	Science, Mentoring
 mentoring.html	Mentoring	Y	2014-06-02 09:02:03	Mentoring, Leadership
-methods-training-scrum.md	Methods for Training Scrum	Y	2014-02-04 13:37:10	Scrum, Agile
+methods-training-scrum.md	Methods for Training Scrum	Y	2014-02-04 13:37:10	Scrum, Agile, Project Management
 milestones-and-deliverables.md	Milestones and Deliverables	Y	2014-06-07 11:22:30	Project Management, Grant Writing
 moderating-magnets.html	Moderating with Magnets	Y	2012-03-29 08:55:49	Teaching, Visualisation
 organizing-panel-discussion.html	Organizing a Panel Discussion	Y	2011-12-02 17:49:37	Conferences, Teaching
@@ -134,3 +134,4 @@ pillow_dice.md	Drawing Dice with Pillow	Y	2016-11-19 00:21	Python, Visualisation
 challenge_dice.md	Coding Challenge: Write a dice game	Y	2016-11-19 09:23	Python, Coding Challenges, Programming, Games, Graphics
 datenquellen_DE.md	Datenquellen für den Unterricht	Y	2017-02-17 22:00	Data Analysis, pandas
 hexpanda_DE.md	Der Panda in der Honigwabe	Y	2017-02-17 22:22	Data Analysis, pandas, Python, Visualisation
+speaking_clubs_berlin.md	Speaking Clubs in Berlin	Y	2017-02-25 21:38	Presenting

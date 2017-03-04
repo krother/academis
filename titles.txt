@@ -135,3 +135,4 @@ challenge_dice.md	Coding Challenge: Write a dice game	Y	2016-11-19 09:23	Python,
 datenquellen_DE.md	Datenquellen für den Unterricht	Y	2017-02-17 22:00	Data Analysis, pandas
 hexpanda_DE.md	Der Panda in der Honigwabe	Y	2017-02-17 22:22	Data Analysis, pandas, Python, Visualisation
 speaking_clubs_berlin.md	Speaking Clubs in Berlin	Y	2017-02-25 21:38	Presenting
+konsolenvideos.html	Konsolenvideos zu Python-Grundlagen	Y	2017-03-04 08:45	Python

@@ -17,7 +17,7 @@ Recently, a couple of friends and I laid the groundworks for a new speaking club
 
 ## Spektrum Redner
 
-[Spektrum Redner](http://spektrum-redner.de/) is a speaking club in Berlin targeted at shy and people with Aspberger, created by *Sascha Goldmann*. It is meeting biweekly in the [Nachbarschaftsheim Friedenau](http://www.nbhs.de). Meetings are in German.
+[Spektrum Redner](http://spektrum-redner.de/) is a speaking club in Berlin targeted at shy and people with Asperger, created by *Sascha Goldmann*. It is meeting biweekly in the [Nachbarschaftsheim Friedenau](http://www.nbhs.de). Meetings are in German.
 
 ----
 

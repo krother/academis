@@ -42,6 +42,7 @@ The Berlin branch of [Pecha Kucha](http://pechakucha.de/berlin/) offers a specia
 
 ----
 
+
 ## Streitkultur
 
 [Streitkultur e.V.](http://streitkultur-berlin.net/) is running public **debates**. Debates are run by teams, usually a pro and con team. In addition to the speaking skills, content of the speeches is evaluated.
@@ -57,6 +58,12 @@ The [Berlin Debating Union e.V.](http://www.debating.de/) is running debates in 
 ## Science Slam
 
 If you are a scientist, the [Science Slam](http://www.scienceslam.de/) event series is for your peer group to make science more understandable and entertaining as reasonably possible.
+
+----
+
+## Bundeswettbewerb Jugend debattiert
+
+It is worth mentioning that there is an annual nation-wide debating contest with 200,000 participants under the auspices of the German Federal President. For more information, see [Bundeswettbewerb Jugend debattiert](https://www.jugend-debattiert.de/).
 
 ----
 

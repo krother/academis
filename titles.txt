@@ -18,7 +18,7 @@ covey_matrix.md	Prioritizing with the Covey Matrix	Y	2012-02-03 12:50:13	Time Ma
 crc_cards.md	Designing classes and modules with CRC Cards	Y	2015-10-08 20:00:00	Python, Software Development, OOP
 create-ad-hoc-artwork-wordle.md	Create ad-hoc artwork with Wordle	Y	2012-03-01 08:55:48	Visualisation
 defended-two-fresh-phds-report.html	Defended! Two Fresh PhD's report	Y	2013-03-19 11:41:21	PhD, Science
-documenting.md	Tools for documenting software	Y	2015-10-08 20:00:00	Software Development, Python
+documenting.md	Tools for documenting software	Y	2015-10-08 20:00:00	Software Development, Python Best Practices
 dos_and_donts.md	Do’s and Don’ts in Grant Writing	Y	2015-10-08 20:00:00	Grant Writing
 dot-voting.md	Dot Voting	Y	2014-06-09 00:22:46	Teaching, Feedback
 fake-funding-agency.html	The Fake Funding Agency	Y	2012-01-09 10:24:19	Teaching, Grant Writing
@@ -60,8 +60,8 @@ planning_poker.md	Planning Poker	Y	2015-10-08 20:00:00	Project Management, Agile
 pomodoro.md	Focus with Pomodoro	Y	2012-10-23 09:49:52	Time Management
 productive-meetings.html	Productive Meetings	Y	2014-06-01 22:03:46	Leadership, Moderating, Meetings
 purposes-presenting.md	Purposes of Presenting	Y	2014-06-03 13:19:14	Presenting
-pylint.md	Writing readable code with pylint	Y	2015-10-08 20:00:00	Python, Software Development
-pyscaffold.md	Starting a Python project with pyscaffold	Y	2015-10-08 20:00:00	Python
+pylint.md	Writing readable code with pylint	Y	2015-10-08 20:00:00	Python Best Practices, Software Development
+pyscaffold.md	Starting a Python project with pyscaffold	Y	2015-10-08 20:00:00	Python Best Practices
 quotes-leadership.html	Quotes on Leadership	Y	2014-03-21 23:27:16	Leadership, Quotes
 quotes_time.md	Quotes on Time	Y	2015-08-26 20:00:00	Time Management, Quotes
 recipe-collect-cards-open-your-lesson.html	Collect cards to open your lesson	Y	2012-03-19 10:33:10	Teaching, Warm-up
@@ -86,7 +86,7 @@ ten_ways_to_say_no.md	10 Ways to say No	Y	2015-08-26 20:00:00	Time Management, L
 three-six-less-more.html	Why Less is More	Y	2013-06-08 17:10:41	Presenting
 time_fairy.md	When the Time Fairy knocks	Y	2015-08-26 20:00:00	Time Management
 using-multple-choice-questions.html	Screencast: Using Multiple Choice Questions	Y	2011-09-04 15:55:36	Teaching
-virtualenv.md	Managing Python libraries with virtualenv	Y	2015-10-08 20:00:00	Python, Software Development
+virtualenv.md	Managing Python libraries with virtualenv	Y	2015-10-08 20:00:00	Python Best Practices, Software Development
 voting-poker-chips.md	Voting with Poker Chips	Y	2011-10-17 13:17:17	Conferences, Social Engineering
 what-distinguishes-novice-master-presenters.html	What distinguishes Novice from Master Presenters?	Y	2014-06-06 15:53:54	Presenting
 when-you-get-stuck-science.html	When you get stuck in science	Y	2013-06-13 00:12:41	Science, Mentoring
@@ -95,21 +95,21 @@ how-use-videos-support-training-session.html	How to use Videos to support a Trai
 masterpiece-presenting-data.html	A Masterpiece of Presenting Data	Y	2014-06-03 15:01:16	Presenting, Data Analysis
 push-vs-pull-leadership.md	Push vs. Pull Leadership	Y	2014-06-04 17:38:50	Leadership
 new-colleague-abroad.html	From Abroad to Aboard: How to help a new Colleague?	Y	2011-09-23 23:08:17	Teamwork, Leadership
-recursive_graph.md	Coding Challenge: The Recursive Snowflake	Y	2015-10-11 23:25:00	Python, Coding Challenges, Visualisation, Algorithms
-spiral.md	Coding Challenge: Spiral	Y	2015-10-12 09:58:00	Python, Coding Challenges, Visualisation
+recursive_graph.md	Coding Challenge: The Recursive Snowflake	Y	2015-10-11 23:25:00	Python Basics, Coding Challenges, Visualisation, Algorithms
+spiral.md	Coding Challenge: Spiral	Y	2015-10-12 09:58:00	Python Basics, Coding Challenges, Visualisation
 decorator_function.md	Coding Challenge: Use a Decorator like a Function	Y	2015-10-13 22:04:00	Python, Coding Challenges, OOP
-count_words_moby_dick.md	Coding Challenge: Count words in Moby Dick	Y	2015-10-14 00:51:00	Python, Coding Challenges
-python_shopping_bill.md	Tutorial: Introduction to Python for programmers	Y	2015-10-14 09:32:00	Python, Coding Challenges
+count_words_moby_dick.md	Coding Challenge: Count words in Moby Dick	Y	2015-10-14 00:51:00	Python Basics, Coding Challenges
+python_shopping_bill.md	Tutorial: Introduction to Python for programmers	Y	2015-10-14 09:32:00	Python Basics, Coding Challenges
 python_backpack_problem.md	Coding Challenge: The Backpack Problem	Y	2015-10-14 11:57:00	Python, Coding Challenges, Algorithms
 linux-command-line-tutorial.html	Tutorial: First Steps on the Linux Command Line	Y	2013-11-08 20:45:08	Linux, e-books, Tutorial, Data Analysis
 professional-development-plan.html	Professional Development Plan	Y	2014-02-25 23:59:10	Mentoring, Leadership
 ebook-getting-grants.html	e-books: Getting Grants	Y	2013-11-25 09:37:32	Grant Writing, e-books
 ebook-leadership-scientists.html	e-book: Leadership for Scientists	Y	2014-06-03 10:17:10	e-books, Leadership
 ebook-powerful-presentations.html	e-books: Powerful Presentations	Y	2013-11-25 09:37:32	e-books, Presenting
-ebook-python-testing-tutorial.md	Tutorial: Python Testing	Y	2015-10-14 18:55:00	Python, Testing, Coding Challenges, e-books
-ebook-python-basics.md	Tutorial: Python 3 Basics	Y	2015-10-14 18:55:00	Python, Coding Challenges, e-books
+ebook-python-testing-tutorial.md	Tutorial: Python Testing	Y	2015-10-14 18:55:00	Python Best Practices, Testing, Coding Challenges, e-books
+ebook-python-basics.md	Tutorial: Python 3 Basics	Y	2015-10-14 18:55:00	Python Basics, Coding Challenges, e-books
 ebook-biopython-tutorial.md	Tutorial: Bioython	Y	2015-10-14 18:55:00	Python, Biopython, Coding Challenges, e-books
-ebook-time-management.md	e-book: Time Management for Scientists	Y	2015-10-14 18:55:00	Time Management, Leadership, e-books
+ebook-time-management.md	e-book: Time Management for Scientists	Y	2015-10-14 18:55:00	Time Management, e-books
 nine-ways-do-scientific-writing.html	Nine Ways to do Scientific Writing	Y	2014-06-03 12:33:50	Writing
 convex_hull_cows_challenge.md	Coding Challenge: How many corners does a herd of cows have?	Y	2015-10-25 22:15:00	Coding Challenges, Python, Algorithms
 speech_evaluation_form.md	Speech Evaluation Form	Y	2015-10-30 22:09:00	Presenting
@@ -121,18 +121,18 @@ quotes_teaching.md	Quotes on Teaching	Y	2015-11-10 00:34	Teaching
 pandas_book.md	Book Review: Python for Data Analysis	Y	2015-12-31 00:30	Python, Data Analysis, Big Data
 bricks_linear_equations.md	Solving a linear optimization problem with PuLP	Y	2016-01-07 21:47	Python, Data Analysis, Python Modules
 next_scientist.md	Next Scientist: My favourite posts by Julio	Y	2016-01-19 00:35	Writing, Science, PhD
-sorting_algorithms.md	Sorting Algorithms with Poker Cards	Y	2016-03-28 22:12	Python, Algorithms, Exercises
-python_cli.html	Writing a Command Line Interface in Python	Y	2016-03-29 00:13	Python, Packaging, Software Engineering, Python Modules
-25python_modules.md	25 Essential Python Modules for Beginners	Y	2016-04-30 18:51	Python, Python Modules, e-books
-matplotlib_examples.md	Standard plotting examples for matplotlib	Y	2016-06-05 10:35	Python, Python Modules, Diagrams, Plotting, Visualisation
+sorting_algorithms.md	Sorting Algorithms with Poker Cards	Y	2016-03-28 22:12	Python Basics, Algorithms, Exercises
+python_cli.html	Writing a Command Line Interface in Python	Y	2016-03-29 00:13	Python Best Practices, Packaging, Software Engineering, Python Modules
+25python_modules.md	25 Essential Python Modules for Beginners	Y	2016-04-30 18:51	Python Basics, Python Modules, e-books
+matplotlib_examples.md	Standard plotting examples for matplotlib	Y	2016-06-05 10:35	Python Basics, Python Modules, Diagrams, Plotting, Visualisation
 movie_end_credits.md	Creating End Credits for a Movie in Python	Y	2016-06-08 00:21	Python, Python Modules, Movies, Visualisation
 pycon_2016.md	My 10 Favourite Talks from PyCon 2016	Y	2016-06-23 15:36	Python, Best Practices
 growing_speakers.md	7 Challenges for improving Public Speaking Skills	Y	2016-08-17 12:10	Presenting
 fettbook.md	fettbook - the Social Network for Lipids	Y	2016-11-11 22:31	Teaching, Biochemistry
 speech_projects.md	Free Speech Projects	Y	2016-11-13 15:21	Presenting
-pillow_dice.md	Drawing Dice with Pillow	Y	2016-11-19 00:21	Python, Visualisation, Drawing, Graphics, Pillow
-challenge_dice.md	Coding Challenge: Write a dice game	Y	2016-11-19 09:23	Python, Coding Challenges, Programming, Games, Graphics
+pillow_dice.md	Drawing Dice with Pillow	Y	2016-11-19 00:21	Python Basics, Visualisation, Drawing, Graphics, Pillow
+challenge_dice.md	Coding Challenge: Write a dice game	Y	2016-11-19 09:23	Python Basics, Coding Challenges, Programming, Games, Graphics
 datenquellen_DE.md	Datenquellen für den Unterricht	Y	2017-02-17 22:00	Data Analysis, pandas
 hexpanda_DE.md	Der Panda in der Honigwabe	Y	2017-02-17 22:22	Data Analysis, pandas, Python, Visualisation
 speaking_clubs_berlin.md	Speaking Clubs in Berlin	Y	2017-02-25 21:38	Presenting
-konsolenvideos.html	Konsolenvideos zu Python-Grundlagen	Y	2017-03-04 08:45	Python
+konsolenvideos.html	Konsolenvideos zu Python-Grundlagen	Y	2017-03-04 08:45	Python Basics

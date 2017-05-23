@@ -1,0 +1,6 @@
+how_to_be_a_postdoc.md	How to be a Postdoc	Y	2017-05-16 23:35:00	time_management
+mechanics_of_learning.md	The Mechanics of Learning	Y	2017-05-16 23:35:00	teaching
+suntzu.md	Sun Tzu for Pacifists	Y	2017-05-16 23:35:00	leadership
+interactive_python_trainings.md	Creating Interactive Python Trainings	Y	2017-05-16 23:35:00	teaching
+delta_debugging.md	Delta Debugging	Y	2017-05-16 23:35:00	python
+python_best_practices.md	Best Practices for Debugging, Testing and Maintenance	Y	2017-05-16 23:35:00	python

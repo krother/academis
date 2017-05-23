@@ -29,9 +29,8 @@ The [Berliner.Rhetorik.Salon](https://rhetorik.salon) is an independent speaking
 
 ## Toastmasters International
 
-[Toastmasters](http://www.toastmasters.org) is a large US-based speaking network. The clubs meet regularly for [speech contests](http://www.divisionc.de/) and lots of other events. There are multiple franchises in Berlin
+[Toastmasters](http://www.toastmasters.org) is a large US-based speaking network. The clubs meet regularly for [speech contests](http://www.divisionc.de/) and lots of other events. There are multiple franchises in Berlin and Potsdam:
 
-* [Innovate Toastmasters](http://www.innovate.tmclub.eu)
 * [Adlershof Toastmasters](http://adlershof-toastmasters.de/)
 * [Berliner Redekünstler](http://www.berliner-redekuenstler.de)
 * [Berliner Rhetorikmeister](http://berliner-rhetorikmeister.de)
@@ -40,6 +39,7 @@ The [Berliner.Rhetorik.Salon](https://rhetorik.salon) is an independent speaking
 * [Mercury Toastmasters](http://www.mercury-toastmasters-berlin.de)
 * [Spreeredner](http://www.spreeredner.de)
 * [Steglitz Toastmasters](http://www.steglitz-toastmasters.de)
+* [Innovate Toastmasters](http://www.innovate.tmclub.eu) (Potsdam)
 
 ----
 

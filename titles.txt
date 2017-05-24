@@ -83,7 +83,7 @@ starting-academis.md	Why I started Academis	Y	2011-08-19 16:43:00	Academis
 strong-presentation-openings.html	Strong Presentation Openings	Y	2014-06-06 14:46:21	Presenting
 team_estimation.md	Team Estimation	Y	2015-10-08 20:00:00	Project Management, Agile
 ten_ways_to_say_no.md	10 Ways to say No	Y	2015-08-26 20:00:00	Time Management, Leadership
-three-six-less-more.html	Why Less is More	Y	2013-06-08 17:10:41	Presenting
+less_is_more.md	Why Less is More	Y	2013-06-08 17:10:41	Presenting
 time_fairy.md	When the Time Fairy knocks	Y	2015-08-26 20:00:00	Time Management
 using-multple-choice-questions.html	Screencast: Using Multiple Choice Questions	Y	2011-09-04 15:55:36	Teaching
 virtualenv.md	Managing Python libraries with virtualenv	Y	2015-10-08 20:00:00	Python Best Practices, Software Development

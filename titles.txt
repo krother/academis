@@ -135,7 +135,7 @@ writing/clear-layouts-conference-posters.html	Clear Layouts for Conference Poste
 writing/nine-ways-do-scientific-writing.html	Nine Ways to do Scientific Writing	Y	2014-06-03 12:33:50	Writing
 writing/six-safe-ways-never-finish-your-phd-thesis.html	Six Safe Ways to never finish Your PhD Thesis 	Y	2014-06-05 13:27:29	PhD, Writing
 writing/top_down_vs_bottom_up.md	Top-down vs. Bottom-up	Y	2017-05-27 20:58:00	Writing
-writing/neun_wege_zu_schreiben.md	Neun verschiedene Arten zu schreiben 	Y	2017-05-27 20:58:00	Writing
+writing/neun_arten_zu_schreiben.md	Neun verschiedene Arten zu schreiben 	Y	2017-05-27 20:58:00	Writing
 writing/struktur_bachelorarbeit.md	Die Struktur einer Bachelorarbeit	Y	2017-05-27 20:58:00	Writing
 ebook-time-management.md	e-book: Time Management for Scientists	Y	2015-10-14 18:55:00	Time Management, e-books
 ebook-getting-grants.html	e-books: Getting Grants	Y	2013-11-25 09:37:32	Grant Writing, e-books

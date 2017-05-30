@@ -1,9 +1,7 @@
 
 # Public Speaking Clubs in Berlin
 
-![rehearsal speech at a speaking club](images/rehearsal_speech_scenes.png)
-
-*Scences from a rehearsal speech at a speaking club*
+![speaking clubs in Berlin](images/berlin_speaking_clubs.png)
 
 Recently, a couple of friends and I laid the groundworks for a new speaking club. It is not the first of its kind. In fact, there are many clubs where people meet to rehearse and improve their speaking skills. Here are all places that I know of:
 
@@ -82,9 +80,3 @@ If you are a scientist, the [Science Slam](http://www.scienceslam.de/) event ser
 ## Bundeswettbewerb Jugend debattiert
 
 It is worth mentioning that there is an annual nation-wide debating contest with 200,000 participants under the auspices of the German Federal President. For more information, see [Bundeswettbewerb Jugend debattiert](https://www.jugend-debattiert.de/).
-
-----
-
-## Meeet
-
-Finally, the [Meeet](http://meeet.de/) coworking space organizes regular events on personal development and business skills. Most events and workshops are in German. *Frank and Carola* have a reputation as extremely nice hosts!

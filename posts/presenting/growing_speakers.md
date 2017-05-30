@@ -1,6 +1,11 @@
 
 # 7 Challenges for improving Public Speaking Skills
 
+![rehearsal speech at a speaking club](images/rehearsal_speech_scenes.png)
+
+*Scences from a rehearsal speech at a speaking club*
+
+
 In the tradition of European Universities, **Rhetoric** was one of the subjects in the *trivia*, the basic education of students. *"Trivium"* literally means *"crossing"* or *"public place"*. 
 Although medieval universities were only open to a minority, the word reminds us that **learning to speak in public is meant for everybody**.
 

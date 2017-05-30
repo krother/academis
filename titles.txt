@@ -1,5 +1,6 @@
 biochemistry/fettbook.md	fettbook - the Social Network for Lipids	Y	2016-11-11 22:31	Teaching, Biochemistry
 biochemistry/live-dna-double-strand.html	Live DNA Double Strand	Y	2014-06-12 20:33:12	Teaching, Biochemistry
+biochemistry/tabelle_proteinfunktionen.md	Tabelle zu Proteinfunktionen	Y	2017-05-29 00:07:00	Teaching, Biochemistry
 basics-grant-applications-course-blueprints.html	Course Plan: Grant Applications	Y	2014-10-06 10:29:42	Grant Writing
 grants/dos_and_donts.md	Do’s and Don’ts in Grant Writing	Y	2015-10-08 20:00:00	Grant Writing
 fake-funding-agency.html	The Fake Funding Agency	Y	2012-01-09 10:24:19	Grant Writing
@@ -96,29 +97,39 @@ science/materials-nurturing-scientists.html	Materials for Nurturing Scientists	Y
 science/next_scientist.md	Next Scientist: My favourite posts by Julio	Y	2016-01-19 00:35	Writing, Science, PhD
 science/scientists-are-entrepreneurs.md	Scientists are Entrepreneurs	Y	2012-08-22 09:17:18	Entrepreneurship
 science/when-you-get-stuck-science.html	When you get stuck in science	Y	2013-06-13 00:12:41	Science, Mentoring
-teaching/blooms_action_verbs.md	Action Verbs for setting Learning Objectives	Y	2015-10-08 20:00:00	Teaching, Lesson Planning
-teaching/collect-and-review-expectations-your-students.html	Collect and review Expectations of Your Students	Y	2014-06-09 00:51:59	Teaching, Warm-up, Feedback
-teaching/collect-feedback-voting-box.md	Collect Feedback with a Voting Box	Y	2011-12-10 09:30:56	Feedback, Teaching
-teaching/concept-maps.md	Concept Maps	Y	2014-06-09 08:59:03	Teaching, Visualisation
-teaching/construct-well-balanced-teaching-units.html	Construct well-balanced Teaching Units	Y	2012-12-29 01:49:19	Teaching, Lesson Planning
-teaching/dot-voting.md	Dot Voting	Y	2014-06-09 00:22:46	Teaching, Feedback
-teaching/feedback_methods.md	Feedback Methods	Y	2016-10-21 09:38:00	Feedback, Teaching
-teaching/four-corner-feedback.html	Four-Corner Feedback	Y	2014-06-04 09:26:12	Teaching, Feedback
-teaching/how-use-videos-support-training-session.html	How to use Videos to support a Training Session?	Y	2014-01-05 20:51:57	Teaching
-teaching/moderating-magnets.html	Moderating with Magnets	Y	2012-03-29 08:55:49	Teaching, Visualisation
-teaching/organizing-panel-discussion.html	Organizing a Panel Discussion	Y	2011-12-02 17:49:37	Conferences, Teaching
-teaching/quotes_teaching.md	Quotes on Teaching	Y	2015-11-10 00:34	Teaching
-teaching/recipe-collect-cards-open-your-lesson.html	Collect cards to open your lesson	Y	2012-03-19 10:33:10	Teaching, Warm-up
-teaching/recipe-fist-or-five.html	Fist or Five Feedback	Y	2013-06-19 09:51:29	Teaching, Feedback
-teaching/recipe-guess-who-i-am.html	Introduction Round: Guess who I am	Y	2011-12-16 09:51:46	Teaching, Warm-up
-teaching/recipe-memory.html	Repeating with the Memory Method	Y	2012-01-02 09:54:54	Teaching, Repeating
-teaching/recipe-pros-and-cons.html	Collect Pros and Cons from a Discussion	Y	2012-01-20 16:20:01	Teaching, Moderating
-teaching/recipe-wrapping-up.html	Wrapping up Your Lesson on the Board	Y	2012-03-02 12:24:18	Teaching, Repeating
-teaching/repeating-carrousel.html	Repeating in a carrousel	Y	2012-07-03 19:00:21	Teaching, Repeating
-teaching/scrabble.html	Scrabble	Y	2015-11-10 00:16	Teaching, Warm-up
-teaching/setting-learning-goals-blooms-taxonomy.md	Setting Learning Goals with Blooms Taxonomy	Y	2014-06-09 11:07:58	Teaching, Lesson Planning
-teaching/supermarket.html	Supermarket	Y	2015-11-10 00:16	Teaching, Feedback
-teaching/using-multple-choice-questions.html	Screencast: Using Multiple Choice Questions	Y	2011-09-04 15:55:36	Teaching
+teaching/en/blooms_action_verbs.md	Action Verbs for setting Learning Objectives	Y	2015-10-08 20:00:00	Teaching, Lesson Planning
+teaching/en/collect_and_review_expectations.md	Collect and review Expectations of Your Students	Y	2014-06-09 00:51:59	Teaching, Warm-up, Feedback
+teaching/en/collect-feedback-voting-box.md	Collect Feedback with a Voting Box	Y	2011-12-10 09:30:56	Feedback, Teaching
+teaching/en/concept-maps.md	Concept Maps	Y	2014-06-09 08:59:03	Teaching, Visualisation
+teaching/en/construct-well-balanced-teaching-units.md	Construct well-balanced Teaching Units	Y	2012-12-29 01:49:19	Teaching, Lesson Planning
+teaching/en/dot-voting.md	Dot Voting	Y	2014-06-09 00:22:46	Teaching, Feedback
+teaching/en/feedback_methods.md	Feedback Methods	Y	2016-10-21 09:38:00	Feedback, Teaching
+teaching/en/four-corner-feedback.md	Four-Corner Feedback	Y	2014-06-04 09:26:12	Teaching, Feedback
+teaching/en/how-use-videos-support-training-session.html	How to use Videos to support a Training Session?	Y	2014-01-05 20:51:57	Teaching
+teaching/en/moderating_magnets.md	Moderating with Magnets	Y	2012-03-29 08:55:49	Teaching, Visualisation
+teaching/en/organizing_panel_discussion.md	Organizing a Panel Discussion	Y	2011-12-02 17:49:37	Conferences, Teaching
+teaching/en/quotes_teaching.md	Quotes on Teaching	Y	2015-11-10 00:34	Teaching
+teaching/en/collect_cards_to_open_your_lesson.md	Collect cards to open your lesson	Y	2012-03-19 10:33:10	Teaching, Warm-up
+teaching/en/fist_or_five.md	Fist or Five Feedback	Y	2013-06-19 09:51:29	Teaching, Feedback
+teaching/en/guess_who_i_am.md	Introduction Round: Guess who I am	Y	2011-12-16 09:51:46	Teaching, Warm-up
+teaching/en/memory.md	Repeating with the Memory Method	Y	2012-01-02 09:54:54	Teaching, Repeating
+teaching/en/pros_and_cons.md	Collect Pros and Cons	Y	2012-01-20 16:20:01	Teaching, Moderating
+teaching/en/check_and_cross.md	Check and Cross	Y	2012-03-02 12:24:18	Teaching, Repeating
+teaching/en/repeating-carrousel.html	Repeating in a carrousel	Y	2012-07-03 19:00:21	Teaching, Repeating
+teaching/en/scrabble.md	Scrabble	Y	2015-11-10 00:16	Teaching, Warm-up
+teaching/en/setting-learning-goals-blooms-taxonomy.md	Setting Learning Goals with Blooms Taxonomy	Y	2014-06-09 11:07:58	Teaching, Lesson Planning
+teaching/en/supermarket.md	Supermarket	Y	2015-11-10 00:16	Teaching, Feedback
+teaching/en/feedback_props.md	Feedback with Props	Y	2017-05-29 00:39	Teaching, Feedback
+teaching/en/domino.md	Domino	Y	2017-05-29 00:39	Teaching, Repeating
+teaching/en/training_course_design.md	A Recipe for Bioinformatics Training Course Design	Y	2017-05-29 00:39	Teaching
+teaching/en/using-multple-choice-questions.html	Screencast: Using Multiple Choice Questions	Y	2011-09-04 15:55:36	Teaching
+teaching/de/abgehakt.md	Abgehakt!	Y	2017-05-28 23:31:00	Teaching
+teaching/de/kopfstand.md	Kopfstand	Y	2017-05-28 23:31:00	Teaching
+teaching/de/blitzlicht.md	Blitzlicht	Y	2017-05-28 23:31:00	Teaching
+teaching/de/memory_DE.md	Memory	Y	2017-05-28 23:31:00	Teaching
+teaching/de/briefkasten.md	Briefkasten	Y	2017-05-28 23:31:00	Teaching
+teaching/de/interaktive_workshops_gestalten.md	Interaktive Workshops gestalten	Y	2017-05-28 23:31:00	Teaching
+teaching/de/teaserbilder.md	Teaserbilder	Y	2017-05-28 23:31:00	Teaching
 time_management/activity_log.md	Activity Log	Y	2015-08-26 20:00:00	Time Management
 time_management/burndown.md	Burndown Charts	Y	2015-10-08 20:00:00	Project Management, Agile, Visualisation
 time_management/covey_matrix.md	Prioritizing with the Covey Matrix	Y	2012-02-03 12:50:13	Time Management

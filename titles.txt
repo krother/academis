@@ -55,6 +55,7 @@ presenting/recipe-creating-talk.html	Recipe for creating a Talk	Y	2014-06-07 23:
 presenting/rhetoric-board-game.md	RHETORIC: The Public Speaking Game	Y	2013-01-07 21:53:09	Presenting
 presenting/six-minutes-speaking-and-presentation-skills.html	The Six Minutes Blog on Speaking and Presenting	Y	2013-03-09 23:45:42	Presenting
 presenting/speaking_clubs_berlin.md	Speaking Clubs in Berlin	Y	2017-02-25 21:38	Presenting
+presenting/redeclubs_berlin.md	Rhetorikclubs in Berlin	Y	2017-05-31 09:12	Presenting
 presenting/speech_evaluation_form.md	Speech Evaluation Form	Y	2015-10-30 22:09:00	Presenting
 presenting/speech_projects.md	Free Speech Projects	Y	2016-11-13 15:21	Presenting
 presenting/strong-presentation-openings.html	Strong Presentation Openings	Y	2014-06-06 14:46:21	Presenting

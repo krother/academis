@@ -1,153 +1,153 @@
-biochemistry/fettbook.md	fettbook - the Social Network for Lipids	Y	2016-11-11 22:31	Teaching, Biochemistry
-biochemistry/live-dna-double-strand.html	Live DNA Double Strand	Y	2014-06-12 20:33:12	Teaching, Biochemistry
-biochemistry/tabelle_proteinfunktionen.md	Tabelle zu Proteinfunktionen	Y	2017-05-29 00:07:00	Teaching, Biochemistry
-basics-grant-applications-course-blueprints.html	Course Plan: Grant Applications	Y	2014-10-06 10:29:42	Grant Writing
-grants/dos_and_donts.md	Do’s and Don’ts in Grant Writing	Y	2015-10-08 20:00:00	Grant Writing
-fake-funding-agency.html	The Fake Funding Agency	Y	2012-01-09 10:24:19	Grant Writing
-grants/getting_started_with_grant_writing.md	Getting started with grant writing	Y	2013-04-28 15:26:38	Grant Writing
-grants/application_process.md	From Grant Submission to Acceptance	Y	2014-06-07 22:25:21	Grant Writing
-grants/grant_reviewer_archetypes.md	Grant reviewer archetypes	Y	2013-04-18 09:28:11	Grant Writing
-grants/how_to_convince_reviewers.md	How to convince Grant Reviewers?	Y	2014-06-07 12:06:43	Grant Writing
-grants/how_to_convince_the_grant_commission.md	How to convince the grant commission?	Y	2014-06-07 11:53:03	Grant Writing
-grants/how_to_convince_the_secretary.md	How to convince the grant secretary	Y	2013-05-06 11:38:20	Grant Writing
-grants/references.md	Literature on Grant Writing	Y	2013-11-25 09:26:13	Grant Writing, Literature
-grants/marketing.md	Grant writing is marketing science	Y	2015-10-08 20:00:00	Grant Writing, Marketing
-grants/persuasion-grant-proposal.md	Persuasion in a Grant Proposal	Y	2014-06-07 23:37:49	Grant Writing, Marketing
-leadership/ebook-leadership-scientists.html	e-book: Leadership for Scientists	Y	2014-06-03 10:17:10	e-books, Leadership
-leadership/gantt-charts.md	GANTT Charts	Y	2014-06-07 10:51:24	Project Management, Grant Writing
-leadership/mentoring.html	Mentoring	Y	2014-06-02 09:02:03	Mentoring, Leadership
-leadership/methods-training-scrum.md	Methods for Training Scrum	Y	2014-02-04 13:37:10	Scrum, Agile, Project Management
-leadership/milestones-and-deliverables.md	Milestones and Deliverables	Y	2014-06-07 11:22:30	Project Management, Grant Writing
-leadership/new-colleague-abroad.html	From Abroad to Aboard: How to help a new Colleague?	Y	2011-09-23 23:08:17	Teamwork, Leadership
-leadership/personality-leader.md	The Personality of a Leader	Y	2014-06-01 22:20:37	Leadership
-leadership/pert-diagrams.md	PERT Diagrams	Y	2014-06-06 16:07:48	Project Management, Grant Writing
-leadership/planning_poker.md	Planning Poker	Y	2015-10-08 20:00:00	Project Management, Agile
-leadership/productive-meetings.html	Productive Meetings	Y	2014-06-01 22:03:46	Leadership, Moderating, Meetings
-leadership/professional-development-plan.html	Professional Development Plan	Y	2014-02-25 23:59:10	Mentoring, Leadership
-leadership/project-outline.md	 Writing a Project Outline	Y	2014-06-09 00:00:33	Project Management, Teamwork
-leadership/push-vs-pull-leadership.md	Push vs. Pull Leadership	Y	2014-06-04 17:38:50	Leadership
-leadership/quotes-leadership.html	Quotes on Leadership	Y	2014-03-21 23:27:16	Leadership, Quotes
-leadership/team_estimation.md	Team Estimation	Y	2015-10-08 20:00:00	Project Management, Agile
-misc/academis-website-alive.html	The Academis website is alive	Y	2011-09-15 11:29:31	Academis, Web Technology
-misc/conversation-starters.md	Conversation Starters	Y	2014-06-02 08:56:39	Networking
-misc/create-ad-hoc-artwork-wordle.md	Create ad-hoc artwork with Wordle	Y	2012-03-01 08:55:48	Visualisation
-misc/docker.html	Deploying Software with Docker	Y	2015-08-15 02:39:00	Python, Software Development
-misc/good_software.md	How to recognize good scientific software?	Y	2013-03-18 09:25:05	Software Development, Science
-misc/linux-command-line-tutorial.html	Tutorial: First Steps on the Linux Command Line	Y	2013-11-08 20:45:08	Linux, e-books, Tutorial, Data Analysis
-misc/starting-academis.md	Why I started Academis	Y	2011-08-19 16:43:00	Academis
-misc/voting-poker-chips.md	Voting with Poker Chips	Y	2011-10-17 13:17:17	Conferences, Social Engineering
-presenting/avoiding-presentation-disasters.md	Avoiding Presentation Disasters	Y	2011-10-05 23:30:04	Presenting, Conferences
-presenting/checklist-presentations.md	Checklist for Presentations	Y	2014-06-08 22:58:28	Presenting
-presenting/ebook-powerful-presentations.html	e-books: Powerful Presentations	Y	2013-11-25 09:37:32	e-books, Presenting
-presenting/feedback-sheet-presentations.md	Feedback Sheet for Presentations	Y	2014-06-08 21:52:31	Presenting, Feedback
-presenting/finding-your-central-message.html	Find Your Central Message	Y	2014-06-05 10:30:09	Presenting, Writing
-presenting/five-ideas-improve-journal-club-presentations.md	Five Ideas to improve Journal Club Presentations	Y	2014-06-08 22:16:31	Presenting, Teamwork
-presenting/growing_speakers.md	7 Challenges for improving Public Speaking Skills	Y	2016-08-17 12:10	Presenting
-presenting/handling-audience.html	Handling a Difficult Audience	Y	2014-06-01 21:23:23	Presenting, Moderating
-presenting/how-structure-presentation.html	How to structure a presentation?	Y	2014-06-08 23:35:43	Presenting
-presenting/less_is_more.md	Why Less is More	Y	2013-06-08 17:10:41	Presenting
-presenting/literature-poster-presentations.html	Literature on Poster Presentations	Y	2014-06-08 14:16:23	Visualisation, Literature
-presenting/literature-scientific-presentations.html	Literature on Scientific Presentations	Y	2014-06-08 12:09:17	Presenting, Literature
-presenting/masterpiece-presenting-data.html	A Masterpiece of Presenting Data	Y	2014-06-03 15:01:16	Presenting, Data Analysis
-presenting/phd-defence.md	The PhD Defence	Y	2012-09-29 22:42:58	PhD, Presenting
-presenting/purposes-presenting.md	Purposes of Presenting	Y	2014-06-03 13:19:14	Presenting
-presenting/recipe-creating-talk.html	Recipe for creating a Talk	Y	2014-06-07 23:56:37	Presenting
-presenting/rhetoric-board-game.md	RHETORIC: The Public Speaking Game	Y	2013-01-07 21:53:09	Presenting
-presenting/six-minutes-speaking-and-presentation-skills.html	The Six Minutes Blog on Speaking and Presenting	Y	2013-03-09 23:45:42	Presenting
-presenting/speaking_clubs_berlin.md	Speaking Clubs in Berlin	Y	2017-02-25 21:38	Presenting
-presenting/redeclubs_berlin.md	Rhetorikclubs in Berlin	Y	2017-05-31 09:12	Presenting
-presenting/speech_evaluation_form.md	Speech Evaluation Form	Y	2015-10-30 22:09:00	Presenting
-presenting/speech_projects.md	Free Speech Projects	Y	2016-11-13 15:21	Presenting
-presenting/strong-presentation-openings.html	Strong Presentation Openings	Y	2014-06-06 14:46:21	Presenting
-presenting/what-distinguishes-novice-master-presenters.html	What distinguishes Novice from Master Presenters?	Y	2014-06-06 15:53:54	Presenting
-python/25python_modules.md	25 Essential Python Modules for Beginners	Y	2016-04-30 18:51	Python Basics, Python Modules, e-books
-python/blast_tutorial.md	Python BLAST Tutorial	Y	2015-10-08 20:00:00	Bioinformatics, Python
-python/bricks_linear_equations.md	Solving a linear optimization problem with PuLP	Y	2016-01-07 21:47	Python, Data Analysis, Python Modules
-python/challenge_dice.md	Coding Challenge: Write a dice game	Y	2016-11-19 09:23	Python Basics, Coding Challenges, Programming, Games, Graphics
-python/coding_katas.md	Where to find Coding Katas?	Y	2015-11-03 20:29:00	Python, Programming, Coding Challenges
-python/convex_hull_cows_challenge.md	Coding Challenge: How many corners does a herd of cows have?	Y	2015-10-25 22:15:00	Coding Challenges, Python, Algorithms
-python/count_words_moby_dick.md	Coding Challenge: Count words in Moby Dick	Y	2015-10-14 00:51:00	Python Basics, Coding Challenges
-python/crc_cards.md	Designing classes and modules with CRC Cards	Y	2015-10-08 20:00:00	Python, Software Development, OOP
-python/datenquellen_DE.md	Datenquellen für den Unterricht	Y	2017-02-17 22:00	Data Analysis, pandas
-python/decorator_function.md	Coding Challenge: Use a Decorator like a Function	Y	2015-10-13 22:04:00	Python, Coding Challenges, OOP
-python/documenting.md	Tools for documenting software	Y	2015-10-08 20:00:00	Software Development, Python Best Practices
-python/ebook-biopython-tutorial.md	Tutorial: Bioython	Y	2015-10-14 18:55:00	Python, Biopython, Coding Challenges, e-books
-python/ebook-python-basics.md	Tutorial: Python 3 Basics	Y	2015-10-14 18:55:00	Python Basics, Coding Challenges, e-books
-python/ebook-python-testing-tutorial.md	Tutorial: Python Testing	Y	2015-10-14 18:55:00	Python Best Practices, Testing, Coding Challenges, e-books
-python/hexpanda_DE.md	Der Panda in der Honigwabe	Y	2017-02-17 22:22	Data Analysis, pandas, Python, Visualisation
-python/konsolenvideos.html	Konsolenvideos zu Python-Grundlagen	Y	2017-03-04 08:45	Python Basics
-python/matplotlib_examples.md	Standard plotting examples for matplotlib	Y	2016-06-05 10:35	Python Basics, Python Modules, Diagrams, Plotting, Visualisation
-python/movie_end_credits.md	Creating End Credits for a Movie in Python	Y	2016-06-08 00:21	Python, Python Modules, Movies, Visualisation
-python/pandas_book.md	Book Review: Python for Data Analysis	Y	2015-12-31 00:30	Python, Data Analysis, Big Data
-python/pillow_dice.md	Drawing Dice with Pillow	Y	2016-11-19 00:21	Python Basics, Visualisation, Drawing, Graphics, Pillow
-python/pycon_2016.md	My 10 Favourite Talks from PyCon 2016	Y	2016-06-23 15:36	Python, Best Practices
-python/pylint.md	Writing readable code with pylint	Y	2015-10-08 20:00:00	Python Best Practices, Software Development
-python/pyscaffold.md	Starting a Python project with pyscaffold	Y	2015-10-08 20:00:00	Python Best Practices
-python/python_backpack_problem.md	Coding Challenge: The Backpack Problem	Y	2015-10-14 11:57:00	Python, Coding Challenges, Algorithms
-python/python_cli.html	Writing a Command Line Interface in Python	Y	2016-03-29 00:13	Python Best Practices, Packaging, Software Engineering, Python Modules
-python/python_shopping_bill.md	Tutorial: Introduction to Python for programmers	Y	2015-10-14 09:32:00	Python Basics, Coding Challenges
-python/recursive_graph.md	Coding Challenge: The Recursive Snowflake	Y	2015-10-11 23:25:00	Python Basics, Coding Challenges, Visualisation, Algorithms
-python/sorting_algorithms.md	Sorting Algorithms with Poker Cards	Y	2016-03-28 22:12	Python Basics, Algorithms, Exercises
-python/spiral.md	Coding Challenge: Spiral	Y	2015-10-12 09:58:00	Python Basics, Coding Challenges, Visualisation
-python/virtualenv.md	Managing Python libraries with virtualenv	Y	2015-10-08 20:00:00	Python Best Practices, Software Development
-science/100-simple-rules-do-science.html	100 Simple Rules to do Science	Y	2013-11-29 14:09:00	Science, Presenting, Writing, Mentoring, Literature
-science/be-better-postdoc.html	How to be a Good Postdoc?	Y	2013-03-24 14:05:36	Postdoc, Leadership, Stories
-science/defended-two-fresh-phds-report.html	Defended! Two Fresh PhD's report	Y	2013-03-19 11:41:21	PhD, Science
-science/lab-tracking-down-scientific-fraud.md	The Lab: Tracking down scientific fraud	Y	2012-09-25 13:05:33	Teaching, e-learning, Science
-science/materials-nurturing-scientists.html	Materials for Nurturing Scientists	Y	2012-03-14 08:32:38	Science, Mentoring
-science/next_scientist.md	Next Scientist: My favourite posts by Julio	Y	2016-01-19 00:35	Writing, Science, PhD
-science/scientists-are-entrepreneurs.md	Scientists are Entrepreneurs	Y	2012-08-22 09:17:18	Entrepreneurship
-science/when-you-get-stuck-science.html	When you get stuck in science	Y	2013-06-13 00:12:41	Science, Mentoring
-teaching/en/blooms_action_verbs.md	Action Verbs for setting Learning Objectives	Y	2015-10-08 20:00:00	Teaching, Lesson Planning
-teaching/en/collect_and_review_expectations.md	Collect and review Expectations of Your Students	Y	2014-06-09 00:51:59	Teaching, Warm-up, Feedback
-teaching/en/collect-feedback-voting-box.md	Collect Feedback with a Voting Box	Y	2011-12-10 09:30:56	Feedback, Teaching
-teaching/en/concept-maps.md	Concept Maps	Y	2014-06-09 08:59:03	Teaching, Visualisation
-teaching/en/construct-well-balanced-teaching-units.md	Construct well-balanced Teaching Units	Y	2012-12-29 01:49:19	Teaching, Lesson Planning
-teaching/en/dot-voting.md	Dot Voting	Y	2014-06-09 00:22:46	Teaching, Feedback
-teaching/en/feedback_methods.md	Feedback Methods	Y	2016-10-21 09:38:00	Feedback, Teaching
-teaching/en/four-corner-feedback.md	Four-Corner Feedback	Y	2014-06-04 09:26:12	Teaching, Feedback
-teaching/en/how-use-videos-support-training-session.html	How to use Videos to support a Training Session?	Y	2014-01-05 20:51:57	Teaching
-teaching/en/moderating_magnets.md	Moderating with Magnets	Y	2012-03-29 08:55:49	Teaching, Visualisation
-teaching/en/organizing_panel_discussion.md	Organizing a Panel Discussion	Y	2011-12-02 17:49:37	Conferences, Teaching
-teaching/en/quotes_teaching.md	Quotes on Teaching	Y	2015-11-10 00:34	Teaching
-teaching/en/collect_cards_to_open_your_lesson.md	Collect cards to open your lesson	Y	2012-03-19 10:33:10	Teaching, Warm-up
-teaching/en/fist_or_five.md	Fist or Five Feedback	Y	2013-06-19 09:51:29	Teaching, Feedback
-teaching/en/guess_who_i_am.md	Introduction Round: Guess who I am	Y	2011-12-16 09:51:46	Teaching, Warm-up
-teaching/en/memory.md	Repeating with the Memory Method	Y	2012-01-02 09:54:54	Teaching, Repeating
-teaching/en/pros_and_cons.md	Collect Pros and Cons	Y	2012-01-20 16:20:01	Teaching, Moderating
-teaching/en/check_and_cross.md	Check and Cross	Y	2012-03-02 12:24:18	Teaching, Repeating
-teaching/en/repeating-carrousel.html	Repeating in a carrousel	Y	2012-07-03 19:00:21	Teaching, Repeating
-teaching/en/scrabble.md	Scrabble	Y	2015-11-10 00:16	Teaching, Warm-up
-teaching/en/setting-learning-goals-blooms-taxonomy.md	Setting Learning Goals with Blooms Taxonomy	Y	2014-06-09 11:07:58	Teaching, Lesson Planning
-teaching/en/supermarket.md	Supermarket	Y	2015-11-10 00:16	Teaching, Feedback
-teaching/en/feedback_props.md	Feedback with Props	Y	2017-05-29 00:39	Teaching, Feedback
-teaching/en/domino.md	Domino	Y	2017-05-29 00:39	Teaching, Repeating
-teaching/en/training_course_design.md	A Recipe for Bioinformatics Training Course Design	Y	2017-05-29 00:39	Teaching
-teaching/en/using-multple-choice-questions.html	Screencast: Using Multiple Choice Questions	Y	2011-09-04 15:55:36	Teaching
-teaching/de/abgehakt.md	Abgehakt!	Y	2017-05-28 23:31:00	Teaching
-teaching/de/kopfstand.md	Kopfstand	Y	2017-05-28 23:31:00	Teaching
-teaching/de/blitzlicht.md	Blitzlicht	Y	2017-05-28 23:31:00	Teaching
-teaching/de/memory_DE.md	Memory	Y	2017-05-28 23:31:00	Teaching
-teaching/de/briefkasten.md	Briefkasten	Y	2017-05-28 23:31:00	Teaching
-teaching/de/interaktive_workshops_gestalten.md	Interaktive Workshops gestalten	Y	2017-05-28 23:31:00	Teaching
-teaching/de/teaserbilder.md	Teaserbilder	Y	2017-05-28 23:31:00	Teaching
-time_management/activity_log.md	Activity Log	Y	2015-08-26 20:00:00	Time Management
-time_management/burndown.md	Burndown Charts	Y	2015-10-08 20:00:00	Project Management, Agile, Visualisation
-time_management/covey_matrix.md	Prioritizing with the Covey Matrix	Y	2012-02-03 12:50:13	Time Management
-time_management/five_options.md	Five Options	Y	2015-08-26 20:00:00	Leadership, Time Management
-time_management/gears.md	The four Gears of Work	Y	2015-08-26 20:00:00	Time Management, Leadership
-time_management/kanban.md	Using a Kanban Board	Y	2014-06-02 09:11:33	Agile, Visualisation, Time Management, Project Management
-time_management/pomodoro.md	Focus with Pomodoro	Y	2012-10-23 09:49:52	Time Management
-time_management/quotes_time.md	Quotes on Time	Y	2015-08-26 20:00:00	Time Management, Quotes
-time_management/smart_goals.md	SMART Goals	Y	2012-12-31 18:38:06	Time Management, Project Management
-time_management/ten_ways_to_say_no.md	10 Ways to say No	Y	2015-08-26 20:00:00	Time Management, Leadership
-time_management/time_fairy.md	When the Time Fairy knocks	Y	2015-08-26 20:00:00	Time Management
-writing/anatomy-conference-poster.html	Anatomy of a Conference Poster	Y	2014-06-03 10:39:42	Visualisation, Writing, Conferences
-writing/clear-layouts-conference-posters.html	Clear Layouts for Conference Posters	Y	2014-06-05 11:41:24	Visualisation
-writing/nine-ways-do-scientific-writing.html	Nine Ways to do Scientific Writing	Y	2014-06-03 12:33:50	Writing
-writing/six-safe-ways-never-finish-your-phd-thesis.html	Six Safe Ways to never finish Your PhD Thesis 	Y	2014-06-05 13:27:29	PhD, Writing
-writing/top_down_vs_bottom_up.md	Top-down vs. Bottom-up	Y	2017-05-27 20:58:00	Writing
-writing/neun_arten_zu_schreiben.md	Neun verschiedene Arten zu schreiben 	Y	2017-05-27 20:58:00	Writing
-writing/struktur_bachelorarbeit.md	Die Struktur einer Bachelorarbeit	Y	2017-05-27 20:58:00	Writing
-ebook-time-management.md	e-book: Time Management for Scientists	Y	2015-10-14 18:55:00	Time Management, e-books
-ebook-getting-grants.html	e-books: Getting Grants	Y	2013-11-25 09:37:32	Grant Writing, e-books
+biochemistry/fettbook.md	fettbook - the Social Network for Lipids	Y	2016-11-11 22:31	Teaching, Biochemistry	EN	CC-BY-SA-4.0
+biochemistry/live-dna-double-strand.html	Live DNA Double Strand	Y	2014-06-12 20:33:12	Teaching, Biochemistry	EN	-
+biochemistry/tabelle_proteinfunktionen.md	Tabelle zu Proteinfunktionen	Y	2017-05-29 00:07:00	Teaching, Biochemistry	EN	-
+basics-grant-applications-course-blueprints.html	Course Plan: Grant Applications	Y	2014-10-06 10:29:42	Grant Writing	EN	-
+grants/dos_and_donts.md	Do’s and Don’ts in Grant Writing	Y	2015-10-08 20:00:00	Grant Writing	EN	-
+fake-funding-agency.html	The Fake Funding Agency	Y	2012-01-09 10:24:19	Grant Writing	EN	-
+grants/getting_started_with_grant_writing.md	Getting started with grant writing	Y	2013-04-28 15:26:38	Grant Writing	EN	-
+grants/application_process.md	From Grant Submission to Acceptance	Y	2014-06-07 22:25:21	Grant Writing	EN	-
+grants/grant_reviewer_archetypes.md	Grant reviewer archetypes	Y	2013-04-18 09:28:11	Grant Writing	EN	-
+grants/how_to_convince_reviewers.md	How to convince Grant Reviewers?	Y	2014-06-07 12:06:43	Grant Writing	EN	-
+grants/how_to_convince_the_grant_commission.md	How to convince the grant commission?	Y	2014-06-07 11:53:03	Grant Writing	EN	-
+grants/how_to_convince_the_secretary.md	How to convince the grant secretary	Y	2013-05-06 11:38:20	Grant Writing	EN	-
+grants/references.md	Literature on Grant Writing	Y	2013-11-25 09:26:13	Grant Writing, Literature	EN	-
+grants/marketing.md	Grant writing is marketing science	Y	2015-10-08 20:00:00	Grant Writing, Marketing	EN	-
+grants/persuasion-grant-proposal.md	Persuasion in a Grant Proposal	Y	2014-06-07 23:37:49	Grant Writing, Marketing	EN	-
+leadership/ebook-leadership-scientists.html	e-book: Leadership for Scientists	Y	2014-06-03 10:17:10	e-books, Leadership	EN	-
+leadership/gantt-charts.md	GANTT Charts	Y	2014-06-07 10:51:24	Project Management, Grant Writing	EN	-
+leadership/mentoring.html	Mentoring	Y	2014-06-02 09:02:03	Mentoring, Leadership	EN	-
+leadership/methods-training-scrum.md	Methods for Training Scrum	Y	2014-02-04 13:37:10	Scrum, Agile, Project Management	EN	-
+leadership/milestones-and-deliverables.md	Milestones and Deliverables	Y	2014-06-07 11:22:30	Project Management, Grant Writing	EN	-
+leadership/new-colleague-abroad.html	From Abroad to Aboard: How to help a new Colleague?	Y	2011-09-23 23:08:17	Teamwork, Leadership	EN	-
+leadership/personality-leader.md	The Personality of a Leader	Y	2014-06-01 22:20:37	Leadership	EN	-
+leadership/pert-diagrams.md	PERT Diagrams	Y	2014-06-06 16:07:48	Project Management, Grant Writing	EN	-
+leadership/planning_poker.md	Planning Poker	Y	2015-10-08 20:00:00	Project Management, Agile	EN	-
+leadership/productive-meetings.html	Productive Meetings	Y	2014-06-01 22:03:46	Leadership, Moderating, Meetings	EN	-
+leadership/professional-development-plan.html	Professional Development Plan	Y	2014-02-25 23:59:10	Mentoring, Leadership	EN	-
+leadership/project-outline.md	 Writing a Project Outline	Y	2014-06-09 00:00:33	Project Management, Teamwork	EN	-
+leadership/push-vs-pull-leadership.md	Push vs. Pull Leadership	Y	2014-06-04 17:38:50	Leadership	EN	-
+leadership/quotes-leadership.html	Quotes on Leadership	Y	2014-03-21 23:27:16	Leadership, Quotes	EN	-
+leadership/team_estimation.md	Team Estimation	Y	2015-10-08 20:00:00	Project Management, Agile	EN	-
+misc/academis-website-alive.html	The Academis website is alive	Y	2011-09-15 11:29:31	Academis, Web Technology	EN	-
+misc/conversation-starters.md	Conversation Starters	Y	2014-06-02 08:56:39	Networking	EN	-
+misc/create-ad-hoc-artwork-wordle.md	Create ad-hoc artwork with Wordle	Y	2012-03-01 08:55:48	Visualisation	EN	-
+misc/docker.html	Deploying Software with Docker	Y	2015-08-15 02:39:00	Python, Software Development	EN	-
+misc/good_software.md	How to recognize good scientific software?	Y	2013-03-18 09:25:05	Software Development, Science	EN	-
+misc/linux-command-line-tutorial.html	Tutorial: First Steps on the Linux Command Line	Y	2013-11-08 20:45:08	Linux, e-books, Tutorial, Data Analysis	EN	-
+misc/starting-academis.md	Why I started Academis	Y	2011-08-19 16:43:00	Academis	EN	-
+misc/voting-poker-chips.md	Voting with Poker Chips	Y	2011-10-17 13:17:17	Conferences, Social Engineering	EN	-
+presenting/avoiding-presentation-disasters.md	Avoiding Presentation Disasters	Y	2011-10-05 23:30:04	Presenting, Conferences	EN	CC-BY-SA-4.0
+presenting/checklist-presentations.md	Checklist for Presentations	Y	2014-06-08 22:58:28	Presenting	EN	CC-BY-SA-4.0
+presenting/ebook-powerful-presentations.html	e-books: Powerful Presentations	Y	2013-11-25 09:37:32	e-books, Presenting	EN	-
+presenting/feedback-sheet-presentations.md	Feedback Sheet for Presentations	Y	2014-06-08 21:52:31	Presenting, Feedback	EN	CC-BY-SA-4.0
+presenting/finding-your-central-message.html	Find Your Central Message	Y	2014-06-05 10:30:09	Presenting, Writing	EN	CC-BY-SA-4.0
+presenting/five-ideas-improve-journal-club-presentations.md	Five Ideas to improve Journal Club Presentations	Y	2014-06-08 22:16:31	Presenting, Teamwork	EN	CC-BY-SA-4.0
+presenting/growing_speakers.md	7 Challenges for improving Public Speaking Skills	Y	2016-08-17 12:10	Presenting	EN	CC-BY-SA-4.0
+presenting/handling-audience.html	Handling a Difficult Audience	Y	2014-06-01 21:23:23	Presenting, Moderating	EN	CC-BY-SA-4.0
+presenting/how-structure-presentation.html	How to structure a presentation?	Y	2014-06-08 23:35:43	Presenting	EN	CC-BY-SA-4.0
+presenting/less_is_more.md	Why Less is More	Y	2013-06-08 17:10:41	Presenting	EN	CC-BY-SA-4.0
+presenting/literature-poster-presentations.html	Literature on Poster Presentations	Y	2014-06-08 14:16:23	Visualisation, Literature	EN	CC-BY-SA-4.0
+presenting/literature-scientific-presentations.html	Literature on Scientific Presentations	Y	2014-06-08 12:09:17	Presenting, Literature	EN	CC-BY-SA-4.0
+presenting/masterpiece-presenting-data.html	A Masterpiece of Presenting Data	Y	2014-06-03 15:01:16	Presenting, Data Analysis	EN	CC-BY-SA-4.0
+presenting/phd-defence.md	The PhD Defence	Y	2012-09-29 22:42:58	PhD, Presenting	EN	CC-BY-SA-4.0
+presenting/purposes-presenting.md	Purposes of Presenting	Y	2014-06-03 13:19:14	Presenting	EN	CC-BY-SA-4.0
+presenting/recipe-creating-talk.html	Recipe for creating a Talk	Y	2014-06-07 23:56:37	Presenting	EN	CC-BY-SA-4.0
+presenting/rhetoric-board-game.md	RHETORIC: The Public Speaking Game	Y	2013-01-07 21:53:09	Presenting	EN	CC-BY-SA-4.0
+presenting/six-minutes-speaking-and-presentation-skills.html	The Six Minutes Blog on Speaking and Presenting	Y	2013-03-09 23:45:42	Presenting	EN	CC-BY-SA-4.0
+presenting/speaking_clubs_berlin.md	Speaking Clubs in Berlin	Y	2017-02-25 21:38	Presenting	EN	CC-BY-SA-4.0
+presenting/redeclubs_berlin.md	Rhetorikclubs in Berlin	Y	2017-05-31 09:12	Presenting	EN	CC-BY-SA-4.0
+presenting/speech_evaluation_form.md	Speech Evaluation Form	Y	2015-10-30 22:09:00	Presenting	EN	CC-BY-SA-4.0
+presenting/speech_projects.md	Free Speech Projects	Y	2016-11-13 15:21	Presenting	EN	CC-BY-SA-4.0
+presenting/strong-presentation-openings.html	Strong Presentation Openings	Y	2014-06-06 14:46:21	Presenting	EN	CC-BY-SA-4.0
+presenting/what-distinguishes-novice-master-presenters.html	What distinguishes Novice from Master Presenters?	Y	2014-06-06 15:53:54	Presenting	EN	CC-BY-SA-4.0
+python/25python_modules.md	25 Essential Python Modules for Beginners	Y	2016-04-30 18:51	Python Basics, Python Modules, e-books	EN	-
+python/blast_tutorial.md	Python BLAST Tutorial	Y	2015-10-08 20:00:00	Bioinformatics, Python	EN	-
+python/bricks_linear_equations.md	Solving a linear optimization problem with PuLP	Y	2016-01-07 21:47	Python, Data Analysis, Python Modules	EN	-
+python/challenge_dice.md	Coding Challenge: Write a dice game	Y	2016-11-19 09:23	Python Basics, Coding Challenges, Programming, Games, Graphics	EN	-
+python/coding_katas.md	Where to find Coding Katas?	Y	2015-11-03 20:29:00	Python, Programming, Coding Challenges	EN	-
+python/convex_hull_cows_challenge.md	Coding Challenge: How many corners does a herd of cows have?	Y	2015-10-25 22:15:00	Coding Challenges, Python, Algorithms	EN	-
+python/count_words_moby_dick.md	Coding Challenge: Count words in Moby Dick	Y	2015-10-14 00:51:00	Python Basics, Coding Challenges	EN	-
+python/crc_cards.md	Designing classes and modules with CRC Cards	Y	2015-10-08 20:00:00	Python, Software Development, OOP	EN	-
+python/datenquellen_DE.md	Datenquellen für den Unterricht	Y	2017-02-17 22:00	Data Analysis, pandas	EN	-
+python/decorator_function.md	Coding Challenge: Use a Decorator like a Function	Y	2015-10-13 22:04:00	Python, Coding Challenges, OOP	EN	-
+python/documenting.md	Tools for documenting software	Y	2015-10-08 20:00:00	Software Development, Python Best Practices	EN	-
+python/ebook-biopython-tutorial.md	Tutorial: Bioython	Y	2015-10-14 18:55:00	Python, Biopython, Coding Challenges, e-books	EN	-
+python/ebook-python-basics.md	Tutorial: Python 3 Basics	Y	2015-10-14 18:55:00	Python Basics, Coding Challenges, e-books	EN	-
+python/ebook-python-testing-tutorial.md	Tutorial: Python Testing	Y	2015-10-14 18:55:00	Python Best Practices, Testing, Coding Challenges, e-books	EN	-
+python/hexpanda_DE.md	Der Panda in der Honigwabe	Y	2017-02-17 22:22	Data Analysis, pandas, Python, Visualisation	EN	-
+python/konsolenvideos.html	Konsolenvideos zu Python-Grundlagen	Y	2017-03-04 08:45	Python Basics	EN	-
+python/matplotlib_examples.md	Standard plotting examples for matplotlib	Y	2016-06-05 10:35	Python Basics, Python Modules, Diagrams, Plotting, Visualisation	EN	-
+python/movie_end_credits.md	Creating End Credits for a Movie in Python	Y	2016-06-08 00:21	Python, Python Modules, Movies, Visualisation	EN	-
+python/pandas_book.md	Book Review: Python for Data Analysis	Y	2015-12-31 00:30	Python, Data Analysis, Big Data	EN	-
+python/pillow_dice.md	Drawing Dice with Pillow	Y	2016-11-19 00:21	Python Basics, Visualisation, Drawing, Graphics, Pillow	EN	-
+python/pycon_2016.md	My 10 Favourite Talks from PyCon 2016	Y	2016-06-23 15:36	Python, Best Practices	EN	-
+python/pylint.md	Writing readable code with pylint	Y	2015-10-08 20:00:00	Python Best Practices, Software Development	EN	-
+python/pyscaffold.md	Starting a Python project with pyscaffold	Y	2015-10-08 20:00:00	Python Best Practices	EN	-
+python/python_backpack_problem.md	Coding Challenge: The Backpack Problem	Y	2015-10-14 11:57:00	Python, Coding Challenges, Algorithms	EN	-
+python/python_cli.html	Writing a Command Line Interface in Python	Y	2016-03-29 00:13	Python Best Practices, Packaging, Software Engineering, Python Modules	EN	-
+python/python_shopping_bill.md	Tutorial: Introduction to Python for programmers	Y	2015-10-14 09:32:00	Python Basics, Coding Challenges	EN	-
+python/recursive_graph.md	Coding Challenge: The Recursive Snowflake	Y	2015-10-11 23:25:00	Python Basics, Coding Challenges, Visualisation, Algorithms	EN	-
+python/sorting_algorithms.md	Sorting Algorithms with Poker Cards	Y	2016-03-28 22:12	Python Basics, Algorithms, Exercises	EN	-
+python/spiral.md	Coding Challenge: Spiral	Y	2015-10-12 09:58:00	Python Basics, Coding Challenges, Visualisation	EN	-
+python/virtualenv.md	Managing Python libraries with virtualenv	Y	2015-10-08 20:00:00	Python Best Practices, Software Development	EN	-
+science/100-simple-rules-do-science.html	100 Simple Rules to do Science	Y	2013-11-29 14:09:00	Science, Presenting, Writing, Mentoring, Literature	EN	-
+science/be-better-postdoc.html	How to be a Good Postdoc?	Y	2013-03-24 14:05:36	Postdoc, Leadership, Stories	EN	-
+science/defended-two-fresh-phds-report.html	Defended! Two Fresh PhD's report	Y	2013-03-19 11:41:21	PhD, Science	EN	-
+science/lab-tracking-down-scientific-fraud.md	The Lab: Tracking down scientific fraud	Y	2012-09-25 13:05:33	Teaching, e-learning, Science	EN	-
+science/materials-nurturing-scientists.html	Materials for Nurturing Scientists	Y	2012-03-14 08:32:38	Science, Mentoring	EN	-
+science/next_scientist.md	Next Scientist: My favourite posts by Julio	Y	2016-01-19 00:35	Writing, Science, PhD	EN	-
+science/scientists-are-entrepreneurs.md	Scientists are Entrepreneurs	Y	2012-08-22 09:17:18	Entrepreneurship	EN	-
+science/when-you-get-stuck-science.html	When you get stuck in science	Y	2013-06-13 00:12:41	Science, Mentoring	EN	-
+teaching/en/blooms_action_verbs.md	Action Verbs for setting Learning Objectives	Y	2015-10-08 20:00:00	Teaching, Lesson Planning	EN	-
+teaching/en/collect_and_review_expectations.md	Collect and review Expectations of Your Students	Y	2014-06-09 00:51:59	Teaching, Warm-up, Feedback	EN	-
+teaching/en/collect-feedback-voting-box.md	Collect Feedback with a Voting Box	Y	2011-12-10 09:30:56	Feedback, Teaching	EN	-
+teaching/en/concept-maps.md	Concept Maps	Y	2014-06-09 08:59:03	Teaching, Visualisation	EN	-
+teaching/en/construct-well-balanced-teaching-units.md	Construct well-balanced Teaching Units	Y	2012-12-29 01:49:19	Teaching, Lesson Planning	EN	-
+teaching/en/dot-voting.md	Dot Voting	Y	2014-06-09 00:22:46	Teaching, Feedback	EN	-
+teaching/en/feedback_methods.md	Feedback Methods	Y	2016-10-21 09:38:00	Feedback, Teaching	EN	-
+teaching/en/four-corner-feedback.md	Four-Corner Feedback	Y	2014-06-04 09:26:12	Teaching, Feedback	EN	-
+teaching/en/how-use-videos-support-training-session.html	How to use Videos to support a Training Session?	Y	2014-01-05 20:51:57	Teaching	EN	-
+teaching/en/moderating_magnets.md	Moderating with Magnets	Y	2012-03-29 08:55:49	Teaching, Visualisation	EN	-
+teaching/en/organizing_panel_discussion.md	Organizing a Panel Discussion	Y	2011-12-02 17:49:37	Conferences, Teaching	EN	-
+teaching/en/quotes_teaching.md	Quotes on Teaching	Y	2015-11-10 00:34	Teaching	EN	-
+teaching/en/collect_cards_to_open_your_lesson.md	Collect cards to open your lesson	Y	2012-03-19 10:33:10	Teaching, Warm-up	EN	-
+teaching/en/fist_or_five.md	Fist or Five Feedback	Y	2013-06-19 09:51:29	Teaching, Feedback	EN	-
+teaching/en/guess_who_i_am.md	Introduction Round: Guess who I am	Y	2011-12-16 09:51:46	Teaching, Warm-up	EN	-
+teaching/en/memory.md	Repeating with the Memory Method	Y	2012-01-02 09:54:54	Teaching, Repeating	EN	-
+teaching/en/pros_and_cons.md	Collect Pros and Cons	Y	2012-01-20 16:20:01	Teaching, Moderating	EN	-
+teaching/en/check_and_cross.md	Check and Cross	Y	2012-03-02 12:24:18	Teaching, Repeating	EN	-
+teaching/en/repeating-carrousel.html	Repeating in a carrousel	Y	2012-07-03 19:00:21	Teaching, Repeating	EN	-
+teaching/en/scrabble.md	Scrabble	Y	2015-11-10 00:16	Teaching, Warm-up	EN	-
+teaching/en/setting-learning-goals-blooms-taxonomy.md	Setting Learning Goals with Blooms Taxonomy	Y	2014-06-09 11:07:58	Teaching, Lesson Planning	EN	-
+teaching/en/supermarket.md	Supermarket	Y	2015-11-10 00:16	Teaching, Feedback	EN	-
+teaching/en/feedback_props.md	Feedback with Props	Y	2017-05-29 00:39	Teaching, Feedback	EN	-
+teaching/en/domino.md	Domino	Y	2017-05-29 00:39	Teaching, Repeating	EN	-
+teaching/en/training_course_design.md	A Recipe for Bioinformatics Training Course Design	Y	2017-05-29 00:39	Teaching	EN	-
+teaching/en/using-multple-choice-questions.html	Screencast: Using Multiple Choice Questions	Y	2011-09-04 15:55:36	Teaching	EN	-
+teaching/de/abgehakt.md	Abgehakt!	Y	2017-05-28 23:31:00	Teaching	EN	-
+teaching/de/kopfstand.md	Kopfstand	Y	2017-05-28 23:31:00	Teaching	EN	-
+teaching/de/blitzlicht.md	Blitzlicht	Y	2017-05-28 23:31:00	Teaching	EN	-
+teaching/de/memory_DE.md	Memory	Y	2017-05-28 23:31:00	Teaching	EN	-
+teaching/de/briefkasten.md	Briefkasten	Y	2017-05-28 23:31:00	Teaching	EN	-
+teaching/de/interaktive_workshops_gestalten.md	Interaktive Workshops gestalten	Y	2017-05-28 23:31:00	Teaching	EN	-
+teaching/de/teaserbilder.md	Teaserbilder	Y	2017-05-28 23:31:00	Teaching	EN	-
+time_management/activity_log.md	Activity Log	Y	2015-08-26 20:00:00	Time Management	EN	-
+time_management/burndown.md	Burndown Charts	Y	2015-10-08 20:00:00	Project Management, Agile, Visualisation	EN	-
+time_management/covey_matrix.md	Prioritizing with the Covey Matrix	Y	2012-02-03 12:50:13	Time Management	EN	-
+time_management/five_options.md	Five Options	Y	2015-08-26 20:00:00	Leadership, Time Management	EN	-
+time_management/gears.md	The four Gears of Work	Y	2015-08-26 20:00:00	Time Management, Leadership	EN	-
+time_management/kanban.md	Using a Kanban Board	Y	2014-06-02 09:11:33	Agile, Visualisation, Time Management, Project Management	EN	-
+time_management/pomodoro.md	Focus with Pomodoro	Y	2012-10-23 09:49:52	Time Management	EN	-
+time_management/quotes_time.md	Quotes on Time	Y	2015-08-26 20:00:00	Time Management, Quotes	EN	-
+time_management/smart_goals.md	SMART Goals	Y	2012-12-31 18:38:06	Time Management, Project Management	EN	-
+time_management/ten_ways_to_say_no.md	10 Ways to say No	Y	2015-08-26 20:00:00	Time Management, Leadership	EN	-
+time_management/time_fairy.md	When the Time Fairy knocks	Y	2015-08-26 20:00:00	Time Management	EN	-
+writing/anatomy-conference-poster.html	Anatomy of a Conference Poster	Y	2014-06-03 10:39:42	Visualisation, Writing, Conferences	EN	-
+writing/clear-layouts-conference-posters.html	Clear Layouts for Conference Posters	Y	2014-06-05 11:41:24	Visualisation	EN	-
+writing/nine-ways-do-scientific-writing.html	Nine Ways to do Scientific Writing	Y	2014-06-03 12:33:50	Writing	EN	-
+writing/six-safe-ways-never-finish-your-phd-thesis.html	Six Safe Ways to never finish Your PhD Thesis 	Y	2014-06-05 13:27:29	PhD, Writing	EN	-
+writing/top_down_vs_bottom_up.md	Top-down vs. Bottom-up	Y	2017-05-27 20:58:00	Writing	EN	-
+writing/neun_arten_zu_schreiben.md	Neun verschiedene Arten zu schreiben 	Y	2017-05-27 20:58:00	Writing	EN	-
+writing/struktur_bachelorarbeit.md	Die Struktur einer Bachelorarbeit	Y	2017-05-27 20:58:00	Writing	EN	-
+ebook-time-management.md	e-book: Time Management for Scientists	Y	2015-10-14 18:55:00	Time Management, e-books	EN	-
+ebook-getting-grants.html	e-books: Getting Grants	Y	2013-11-25 09:37:32	Grant Writing, e-books	EN	-

@@ -1,0 +1,10 @@
+python_basics_EN.md	Python Basics	Y	2017-06-11 08:41:00	python	EN	-
+python_basics_DE.md	Python Grundlagen	N	2017-06-11 08:41:00	python	EN	-
+python_pandas_EN.md	Data Analysis with pandas	Y	2017-06-11 08:41:00	python	EN	-
+python_pandas_EN.md	Datenanalyse mit pandas	N	2017-06-11 08:41:00	python	EN	-
+python_debugging_EN.md	Debugging Python Code	Y	2017-06-11 08:41:00	python	EN	-
+python_best_practices_EN.md	Python Best Practices	Y	2017-06-11 08:41:00	python	EN	-
+python_biopython_EN.md	Managing Biological Data with Python	Y	2017-06-11 08:41:00	python	EN	-
+python_advanced.md	Advanced Python Programming	N	2017-06-11 08:41:00	python	EN	-
+python_ml.md	Machine Learning in Python	N	2017-06-11 08:41:00	python	EN	-
+python_testing.md	Automated Testing with Python	N	2017-06-11 08:41:00	python	EN	-

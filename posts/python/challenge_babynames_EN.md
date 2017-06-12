@@ -12,7 +12,7 @@ During the exercises, you will analyze a *dataset of U.S. baby names*.
 * Download the dataset of U.S. baby names from [www.ssa.gov/oact/babynames/limits.html](https://www.ssa.gov/oact/babynames/limits.html).
 * Unzip the file.
 * Set the working directory of your IDE to a place from which you can access the **'names/'** folder easily.
-
+l
 ----
 
 ## Exercise 1
@@ -41,7 +41,7 @@ Write a program that reads the file **'yob2000.txt'**, and counts how many names
 
 ## Exercise 5
 
-Write a program that reads the file **'yob2000.txt'**, and adds an extra column containing the percentage of a name on the total births of that year. Verify that the sum of percentages is 100%. Write the percentages to a file.
+Write a program that reads the file **'yob2000.txt'**, and creates a list containing the percentages of a name on the total births of that year. Verify that the sum of percentages is 100%. Write the names and percentages to a file.
 
 ----
 
@@ -71,13 +71,13 @@ Identify and print all lines containing one particular name (e.g. your own).
 
 ## Exercise 10
 
-Create a vector containing the years **`1880, 1881, 1882 ... 2015`**.
+Create a list containing the years **`1880, 1881, 1882 ... 2015`**.
 
 ----
 
 ## Exercise 11
 
-Create a vector containing the file names **'yob1880.txt', 'yob1881.txt' … 'yob2015.txt'**. 
+Create a list containing the file names **'yob1880.txt', 'yob1881.txt' … 'yob2015.txt'**. 
 
 ----
 

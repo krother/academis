@@ -63,6 +63,7 @@ presenting/what-distinguishes-novice-master-presenters.html	What distinguishes N
 python/25python_modules.md	25 Essential Python Modules for Beginners	Y	2016-04-30 18:51	Python Basics, Python Modules, e-books	EN	-
 python/blast_tutorial.md	Python BLAST Tutorial	Y	2015-10-08 20:00:00	Bioinformatics, Python	EN	-
 python/bricks_linear_equations.md	Solving a linear optimization problem with PuLP	Y	2016-01-07 21:47	Python, Data Analysis, Python Modules	EN	-
+python/challenge_babynames_EN.md	Programming Exercises for Data Analysis, Level A1	Y	2017-06-12 22:47:00	Data Analysis	EN	-
 python/challenge_dice.md	Coding Challenge: Write a dice game	Y	2016-11-19 09:23	Python Basics, Coding Challenges, Programming, Games, Graphics	EN	-
 python/coding_katas.md	Where to find Coding Katas?	Y	2015-11-03 20:29:00	Python, Programming, Coding Challenges	EN	-
 python/convex_hull_cows_challenge.md	Coding Challenge: How many corners does a herd of cows have?	Y	2015-10-25 22:15:00	Coding Challenges, Python, Algorithms	EN	-

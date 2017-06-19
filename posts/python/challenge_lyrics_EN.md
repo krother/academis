@@ -43,20 +43,20 @@ Read all song files. Extract all lyrics as a list of strings.
 
 Apply the recipe for a Bayesian classifier using the [Bag of Words recipe with scikit-learn](http://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html). Adjust the tutorial example to your own data.
 
-### Improvements
+## Improvements
 
-### Exercise 1
+### Exercise 10
 
 Use [Regular Expressions](https://krother.gitbooks.io/python-3-module-examples/content/re.html) to extract the data.
 
-### Exercise 2
+### Exercise 11
 
 Use [scrapy](https://scrapy.org/) to manage the download.
 
-### Exercise 3
+### Exercise 12
 
 Remove non-meaningful characters from the text.
 
-### Exercise 4
+### Exercise 13
 
 Try different model parameters.

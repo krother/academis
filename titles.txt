@@ -61,6 +61,7 @@ presenting/speech_projects.md	Free Speech Projects	Y	2016-11-13 15:21	Presenting
 presenting/strong-presentation-openings.html	Strong Presentation Openings	Y	2014-06-06 14:46:21	Presenting	EN	CC-BY-SA-4.0
 presenting/what-distinguishes-novice-master-presenters.html	What distinguishes Novice from Master Presenters?	Y	2014-06-06 15:53:54	Presenting	EN	CC-BY-SA-4.0
 python/25python_modules.md	25 Essential Python Modules for Beginners	Y	2016-04-30 18:51	Python Basics, Python Modules, e-books	EN	-
+python/best_of_europython.html	Best of EuroPython 2017	Y	2017-07-22 21:16:00	Python	EN	-
 python/blast_tutorial.md	Python BLAST Tutorial	Y	2015-10-08 20:00:00	Bioinformatics, Python	EN	-
 python/bricks_linear_equations.md	Solving a linear optimization problem with PuLP	Y	2016-01-07 21:47	Python, Data Analysis, Python Modules	EN	-
 python/challenge_babynames_EN.md	Programming Exercises for Data Analysis, Level A1	Y	2017-06-12 22:47:00	Data Analysis	EN	CC-BY-SA-4.0

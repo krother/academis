@@ -51,8 +51,3 @@ coverage.xml
 
 # Sphinx documentation
 docs/_build/
-
-posts/time_management/*
-posts/grants/*
-posts/writing/*
-posts/teaching/*

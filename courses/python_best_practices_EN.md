@@ -11,31 +11,34 @@ best practices for structuring, testing and maintenaining Python code.
 
 ## Outline
 
-### Structuring Code
-
-* Pre-implemented data structures
-* Decorators
-* Context managers
-* Properties
-* Object-Oriented patterns in Python
-* Object-Oriented vs. functional style
-
-### Verification and Validation
+### Automated testing
 
 * automated testing with py.test
+* fixtures
 * mocking
 * coverage analysis
-* profiling
-* handling exceptions 
+
+### Code analysis
+
+* pylint and pyflakes
+* coala
 * type annotations with mypy
 
-### Maintenance tools
+### Project configuration
 
 * pyenv
 * virtualenv
 * cookiecutter
-* pylint
 * running tests with tox
 * continuous integration
-* building Python packages
-* documenting code with Sphinx
+
+### Building Python packages
+
+* setuptools
+* deploying Python packages on Pypi
+* building binary releases
+
+### Documenting Python code
+
+* Sphinx
+* mkdocs
